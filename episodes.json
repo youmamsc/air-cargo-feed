@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "date": "2026-10-02",
+    "title": "MAC Minute — 2026-10-02",
+    "filename": "mac-minute-2026-10-02.mp3",
+    "published_at": "2026-10-02T21:45:32.249274+00:00",
+    "description": "Morning, MAC Fellas — quick one today. Flydubai Cargo unveils routes for freighter network launch. Worth watching for capacity and fleet. Silk Way West Orders Two Airbus A350F Freighters - safariindia.com. Worth watching for capacity and fleet. Ethiopian Airlines Places New Order for 10 Boeing 777F Jets - Aviation A2Z. Worth watching for capacity and fleet. That is the MAC minute. Have a good one.",
+    "sources": [
+      {
+        "title": "Flydubai Cargo unveils routes for freighter network launch",
+        "url": "https://theloadstar.com/flydubai-cargo-unveils-routes-for-freighter-network-launch/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Silk Way West Orders Two Airbus A350F Freighters - safariindia.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaQlptc1ZBMmtWSklYa2drZWZiOW1xbGV2ajllZ2s1bGUyTWxYOXNISE1vUlZHdk9rZUs0dEVRR212VEhtMjRzM1VWRVhLNlFDOGdLdTM3Rlp4VkNmWEVjZllFRDM5N1VOTjZNUVAxWHRPMWpzRW02Nkk0ZVZBZw?oc=5",
+        "source": "safariindia.com"
+      },
+      {
+        "title": "Ethiopian Airlines Places New Order for 10 Boeing 777F Jets - Aviation A2Z",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVBia2o0aTdHYVNOb2VMaGtOaHZxX0pITGJNUGV4X3RhOEd2eEwyVlhKRW9MU25EOFRLOS12ZHNBLW1KMzRRV205VkFvR1drNnpHUG9qTDZNZXNvcWNQd3JCSnAweVV1YTRUb3E5N0Q1ckFFa2JqaFZ1Qi1vcnlWQzVwS1NtZUxQYmFMTlZLZ2xUWVByYmZTc0twZy10dDlMaHA4?oc=5",
+        "source": "Aviation A2Z"
+      }
+    ],
+    "bytes": 417024
+  }
+]
