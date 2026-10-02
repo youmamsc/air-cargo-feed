@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+ xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>MAC Minute</title>
+  <link>https://github.com/youmamsc/air-cargo-feed</link>
+  <description>A fast air-cargo briefing for the MAC Fellas.</description>
+  <language>en</language>
+  <itunes:author>MAC Minute</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
+</channel>
+</rss>
