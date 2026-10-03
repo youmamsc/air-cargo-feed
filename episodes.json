@@ -3,25 +3,25 @@
     "date": "2026-10-03",
     "title": "MAC FM · Saturday 3 October 2026",
     "filename": "mac-fm-2026-10-03.mp3",
-    "published_at": "2026-10-03T09:14:51.737029+02:00",
-    "description": "Good morning, MAC Fellas, and welcome to another quick radio edition. That is right, starting off with LATAM Cargo noting a 150 percent surge in Europe-Brazil pharma traffic, driven by GLP-1 drugs. Which points to heightened demand for temperature-controlled capacity on transatlantic lanes, something worth watching for yield optimization. Moving on to Flydubai Cargo, they launched a scheduled freighter network with three B737s targeting regional trade and e-commerce. That dedicated narrowbody capacity might reshape regional competition and routing options for forwarders. Finally, Cathay Cargo rolled out AI-assisted screening for cargo handling at their terminals. That tech adoption could improve handling efficiency and processing times as an operational benchmark. That is all for today. Catch you next time.",
+    "published_at": "2026-10-03T13:40:15.759510+02:00",
+    "description": "Good morning, MAC Fellas, and welcome back to MAC FM, your unofficial air-cargo radio. Morning, Alex. Let's dive right into the latest updates. Starting with pharma, LATAM Cargo saw a massive 150 percent volume surge on the Europe-Brazil lane. That definitely points to continued high demand for specialized cold-chain capacity down that South American corridor. Over in the Middle East, Flydubai Cargo just rolled out three B737-800 freighters to kick off its first scheduled network. Adding that dedicated regional capacity might really shake up competition for e-commerce and specialized shipments. And finally, Ethiopian Airlines just secured Africa's first deal for the Boeing 777-8F as part of a wider ten-aircraft order. A solid widebody investment to keep an eye on for long-term heavy cargo trends across the continent. That's all for today.",
     "sources": [
       {
-        "title": "LATAM Cargo reports 150% surge in Europe-Brazil pharma traffic",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmpweklfcm9TblIxaEFhTGhQSFo2aU02alB1SzJQMTZWYWpMSThzbHhmai1sUnBWWFZqWUZ3LVpvNU9NcEM3bTBGWnBWWFpjdjNib2pJTnhHZG5vbmNDSzdYWmN1a3lhOFJaS1FTaVlhNGdwRTdFM3c4U2tONVQ3SlR1T3F5a0N6T2daREFrbnE4T0d6YkhDSUlsQdIBoAFBVV95cUxNbEZSOVNOMGFLaEY0b0U5cHhYYUowdTM5aU92SjRwTENiRVp5SExJN0JZM1hOeXNMaVBNSGU3QVd3NTR1QTJfaUtmeHowTXNiZVNJUFVmQTFrZ2t6Q3RIcUxObjRLbjJGQ09zZHV1dVM0Mk1NeXBOazFWWENUVE1fZXA2VklobXVBeVhyNF85bGpsNU8xSmkwV2N4dDZ4MVdK?oc=5",
-        "source": "STAT Times"
+        "title": "LATAM Cargo Pharma Volumes Surge 150% on Europe-Brazil Lane",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUxZbmZra3RNbmxpZWZQbWdFR3RnM3pkUDVSNUhONWdZRnpJQkFiT3B6OWFsQ083MzBEWXJqc1hUSDlwQi1PYmdUWFk2Mjh1QkNWTWR4S3lNNUFkNVJQUEpFNzR4VnpTb3Z2NlJXMHdKSlhXVzhJbzlHZklCTUFnemRSdTBOenNsR09Ham1Ib2t4LWNiXzl6am1WLVN6bVZGbTJYR2ljYUIxaVYy?oc=5",
+        "source": "IndexBox"
       },
       {
-        "title": "Flydubai Cargo launches scheduled freighter network with three B737s",
+        "title": "Flydubai Cargo Launches Inaugural B737-800 Freighter Network",
         "url": "https://theloadstar.com/flydubai-cargo-unveils-routes-for-freighter-network-launch/",
         "source": "The Loadstar"
       },
       {
-        "title": "Cathay Cargo rolls out AI-assisted screening for cargo handling",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kSUhfcVdneTkxNkFOOHVPMHZtYmxJTWRNZUJoR2FHNlAwa1pLWmFDVXRwTkZ0TDZqV0lZZkJuX3FxV1kxOWtkV1FXYXVQMGRYc2Z1c0RJY0wzSVRkSEZhWkVNOUtXUFo1SEdWc2ZkajdDTGtrX0N4ZlNFcUhRaUE?oc=5",
-        "source": "aircargoweek.com"
+        "title": "Ethiopian Airlines Signs Africa's First 777-8F Freighter Deal",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWjZKb1hfa3UzMEdib0dwM3VQelNXOElJQ3B4bVhtU1QxajZyQldHZFNiSXNITjdFUU54RjVSMm9sZkNTQ0djbEhuSzM1TUhWNy1od1dOS2NkMEpkb2UtM0RIb1ZWT2hycmY1SWpRQV9JUjVsOFhJV1F2U3VDWjJyNmhCZmF5SUl6Um9GZ2RKV3pQeHlxX3BMaU5SVG9veF9tOHEyZEU0dkFCWV9ZemhYUERRVHhMWEVzazRuc1czS1piOUFySDVzT0hZa1ZHajQ2NHVOUQ?oc=5",
+        "source": "Tech Times"
       }
     ],
-    "bytes": 759936
+    "bytes": 857088
   }
 ]
