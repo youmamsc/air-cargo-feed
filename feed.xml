@@ -3,14 +3,27 @@
  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>MAC Minute</title>
+  <title>MAC FM</title>
   <link>https://github.com/youmamsc/air-cargo-feed</link>
-  <description>A fast air-cargo briefing for the MAC Fellas.</description>
+  <description>Unofficial air-cargo morning radio for MAC colleagues. Not an official company communication.</description>
   <language>en</language>
-  <itunes:author>MAC Minute</itunes:author>
+  <itunes:author>MAC FM</itunes:author>
+  <itunes:summary>Three air-cargo stories worth knowing, every morning.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:category text="Business"/>
+  <itunes:image href="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/cover.png"/>
   <atom:link href="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
 
+  <item>
+    <title>MAC FM · Saturday 3 October 2026</title>
+    <description><![CDATA[<p>Good morning, MAC Fellas, and welcome to another quick radio edition. That is right, starting off with LATAM Cargo noting a 150 percent surge in Europe-Brazil pharma traffic, driven by GLP-1 drugs. Which points to heightened demand for temperature-controlled capacity on transatlantic lanes, something worth watching for yield optimization. Moving on to Flydubai Cargo, they launched a scheduled freighter network with three B737s targeting regional trade and e-commerce. That dedicated narrowbody capacity might reshape regional competition and routing options for forwarders. Finally, Cathay Cargo rolled out AI-assisted screening for cargo handling at their terminals. That tech adoption could improve handling efficiency and processing times as an operational benchmark. That is all for today. Catch you next time.</p><p><strong>Sources</strong></p><ul><li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmpweklfcm9TblIxaEFhTGhQSFo2aU02alB1SzJQMTZWYWpMSThzbHhmai1sUnBWWFZqWUZ3LVpvNU9NcEM3bTBGWnBWWFpjdjNib2pJTnhHZG5vbmNDSzdYWmN1a3lhOFJaS1FTaVlhNGdwRTdFM3c4U2tONVQ3SlR1T3F5a0N6T2daREFrbnE4T0d6YkhDSUlsQdIBoAFBVV95cUxNbEZSOVNOMGFLaEY0b0U5cHhYYUowdTM5aU92SjRwTENiRVp5SExJN0JZM1hOeXNMaVBNSGU3QVd3NTR1QTJfaUtmeHowTXNiZVNJUFVmQTFrZ2t6Q3RIcUxObjRLbjJGQ09zZHV1dVM0Mk1NeXBOazFWWENUVE1fZXA2VklobXVBeVhyNF85bGpsNU8xSmkwV2N4dDZ4MVdK?oc=5">LATAM Cargo reports 150% surge in Europe-Brazil pharma traffic</a> — STAT Times</li><li><a href="https://theloadstar.com/flydubai-cargo-unveils-routes-for-freighter-network-launch/">Flydubai Cargo launches scheduled freighter network with three B737s</a> — The Loadstar</li><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1kSUhfcVdneTkxNkFOOHVPMHZtYmxJTWRNZUJoR2FHNlAwa1pLWmFDVXRwTkZ0TDZqV0lZZkJuX3FxV1kxOWtkV1FXYXVQMGRYc2Z1c0RJY0wzSVRkSEZhWkVNOUtXUFo1SEdWc2ZkajdDTGtrX0N4ZlNFcUhRaUE?oc=5">Cathay Cargo rolls out AI-assisted screening for cargo handling</a> — aircargoweek.com</li></ul>]]></description>
+    <pubDate>Sat, 03 Oct 2026 09:14:51 +0200</pubDate>
+    <guid isPermaLink="true">https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/episodes/mac-fm-2026-10-03.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/episodes/mac-fm-2026-10-03.mp3" length="759936" type="audio/mpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
     <title>MAC Minute — 2026-10-02</title>
     <description><![CDATA[<p>MAC Fellas, widebody freighter competition just got loud. Ethiopian Airlines ordered ten Boeing 777Fs. That is a serious fleet expansion for the region. We fly 777Fs too, so more planes in the market could pressure our capacity and rates. Also, Flydubai launched a dedicated cargo network using B737-800 freighters. They are targeting e-commerce and specialized shipments that usually rely on belly capacity. Worth watching, as this may shift regional trade patterns away from traditional carriers. Finally, Xeneta notes shippers are shifting to short-term deals as demand squeezes capacity. Keep your booking flexibility tight; this market is moving fast. Have a good weekend.</p><p><strong>Sources</strong></p><ul><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVBia2o0aTdHYVNOb2VMaGtOaHZxX0pITGJNUGV4X3RhOEd2eEwyVlhKRW9MU25EOFRLOS12ZHNBLW1KMzRRV205VkFvR1drNnpHUG9qTDZNZXNvcWNQd3JCSnAweVV1YTRUb3E5N0Q1ckFFa2JqaFZ1Qi1vcnlWQzVwS1NtZUxQYmFMTlZLZ2xUWVByYmZTc0twZy10dDlMaHA4?oc=5">Ethiopian Airlines Places New Order for 10 Boeing 777F Jets - Aviation A2Z</a> — Aviation A2Z</li><li><a href="https://theloadstar.com/flydubai-cargo-unveils-routes-for-freighter-network-launch/">Flydubai Cargo unveils routes for freighter network launch</a> — The Loadstar</li><li><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3otdml2UG5TanpCS2NTeDVsa0hldERnR2hKSDhwdG5ib2FwUmpPT05STnVwN19SbmtLcVhZT3VSaHk3VUFkYm5oZlVuSFJxRE92cDJGWHFsUTlrNlgycXQ0eHlfeFNONlNVZTFSZEtvellHSGN4ckVZSmh5TnYwUXgzRWpqalkxSmVzZFM2eFlYX1hEbkFQSjZzckY3dUVicUZFX0pYZGF6OWNN?oc=5">Xeneta: Shippers want short-term deals as demand squeezes capacity - Air Cargo News</a> — Air Cargo News</li></ul>]]></description>
@@ -18,6 +31,7 @@
     <guid isPermaLink="true">https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/episodes/mac-minute-2026-10-02.mp3</guid>
     <enclosure url="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/episodes/mac-minute-2026-10-02.mp3" length="665088" type="audio/mpeg"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
   </item>
 </channel>
 </rss>
