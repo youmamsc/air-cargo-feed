@@ -12,7 +12,7 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="Business"/>
-  <itunes:image href="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/cover.png"/>
+  <itunes:image href="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/cover-v3.png"/>
   <itunes:owner>
     <itunes:name>MAC FM</itunes:name>
     <itunes:email>niunaroska@gmail.com</itunes:email>
@@ -27,7 +27,7 @@
     <enclosure url="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/episodes/mac-fm-2026-10-05.mp3" length="562944" type="audio/mpeg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:episodeType>full</itunes:episodeType>
-    <itunes:image href="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/cover.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/cover-v3.png"/>
     <itunes:duration>35</itunes:duration>
   </item>
   <item>
@@ -38,7 +38,7 @@
     <enclosure url="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/episodes/mac-minute-2026-10-02.mp3" length="665088" type="audio/mpeg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:episodeType>full</itunes:episodeType>
-    <itunes:image href="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/cover.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/cover-v3.png"/>
     <itunes:duration>42</itunes:duration>
   </item>
 </channel>
