@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-10-05",
+    "title": "MAC FM · Monday 5 October 2026",
+    "filename": "mac-fm-2026-10-05.mp3",
+    "published_at": "2026-10-05T06:08:52.494406+02:00",
+    "description": "MAC Fellas, good morning. It’s Alex and Maya here for your unofficial MAC FM update. Morning! IATA data shows global air cargo demand rose 4.4% in August, while passenger traffic slipped. Interesting divergence. That might signal a continued shift toward dedicated freighters and belly-hold optimization. Speaking of freighters, NX Group and JAL just launched a new 747F service. Adding widebody capacity in Asia-Pacific could intensify competition on high-volume lanes. It might also influence yield management for similar network operators. Keep an eye on those trade lanes. That’s all for now.",
+    "sources": [
+      {
+        "title": "IATA reports 4.4% rise in global air cargo demand for August",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGIzWktMY0Q1aElFc2xmVXo2SWdGSG9tMERTTmNVUWNNeFo2TWRISThuVi03TXQzQkhuaWpBOE1oTmtYU2d5NE1WcS1xNTBBSGREdF9BTGphbEhXQUktd0RXZGI0NXUtNFE2SU9pR2s4bGh2RDZBQVFpUGtHelh1bUJYSXdyNWpWc0ZDaGV3?oc=5",
+        "source": "Asian Aviation"
+      },
+      {
+        "title": "NX Group and JAL launch new 747F cargo service",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZbXpheHN0S21rNGRjWmt1OXlzQ1ozTVBWZVlCaGFTNHJHNmh2cHVfWjZxRTJwLUlVUDJZZmhYOV9ibThJVC1fMl9UeTYzQVBCM3VZemJkT05RRl9QeHFXb3RUM0wtZGJ0NUpXOS1MUXVIV1Q2UWZaMUNjV1dwdVE?oc=5",
+        "source": "Container News"
+      }
+    ],
+    "bytes": 562944,
+    "duration_seconds": 35.184
+  },
+  {
     "date": "2026-10-03",
     "title": "MAC FM · Saturday 3 October 2026",
     "filename": "mac-fm-2026-10-03.mp3",
