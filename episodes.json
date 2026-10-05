@@ -1,10 +1,10 @@
 [
   {
     "date": "2026-10-05",
-    "title": "MAC FM · Monday 5 October 2026",
+    "title": "Air Cargo News - 05 October 2026",
     "filename": "mac-fm-2026-10-05.mp3",
     "published_at": "2026-10-05T06:08:52.494406+02:00",
-    "description": "MAC Fellas, good morning. It’s Alex and Maya here for your unofficial MAC FM update. Morning! IATA data shows global air cargo demand rose 4.4% in August, while passenger traffic slipped. Interesting divergence. That might signal a continued shift toward dedicated freighters and belly-hold optimization. Speaking of freighters, NX Group and JAL just launched a new 747F service. Adding widebody capacity in Asia-Pacific could intensify competition on high-volume lanes. It might also influence yield management for similar network operators. Keep an eye on those trade lanes. That’s all for now.",
+    "description": "Today's air cargo news: IATA reports a 4.4% rise in global air cargo demand for August; NX Group and JAL launch a new 747F cargo service.",
     "sources": [
       {
         "title": "IATA reports 4.4% rise in global air cargo demand for August",
@@ -22,10 +22,10 @@
   },
   {
     "date": "2026-10-03",
-    "title": "MAC FM · Saturday 3 October 2026",
+    "title": "Air Cargo News - 03 October 2026",
     "filename": "mac-fm-2026-10-03.mp3",
     "published_at": "2026-10-03T22:43:49.285162+02:00",
-    "description": "MAC Fellas, morning. Flydubai Cargo just launched its first scheduled B737-800 freighter network. Three dedicated narrowbodies? That’s a big shift for regional capacity. Exactly. It might pull e-commerce flows away from belly space. Speaking of e-commerce, lithium battery shipments are under stricter safety review. Tighter compliance could slow down handling for high-volume electronics. Definitely something to watch. Stay sharp, everyone.",
+    "description": "Today's air cargo news: Flydubai Cargo launches a scheduled B737-800 freighter network; e-commerce growth intensifies scrutiny of lithium battery safety.",
     "sources": [
       {
         "title": "Flydubai Cargo launches scheduled B737-800 freighter network",
@@ -40,5 +40,31 @@
     ],
     "bytes": 418944,
     "duration_seconds": 26.184
+  },
+  {
+    "date": "2026-10-02",
+    "title": "Air Cargo News - 02 October 2026",
+    "filename": "mac-minute-2026-10-02.mp3",
+    "published_at": "2026-10-02T22:25:49+00:00",
+    "description": "Today's air cargo news: Ethiopian Airlines orders 10 Boeing 777 freighters; Flydubai Cargo launches a dedicated B737-800 freighter network; shippers turn to short-term deals as capacity tightens.",
+    "sources": [
+      {
+        "title": "Ethiopian Airlines Places New Order for 10 Boeing 777F Jets",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVBia2o0aTdHYVNOb2VMaGtOaHZxX0pITGJNUGV4X3RhOEd2eEwyVlhKRW9MU25EOFRLOS12ZHNBLW1KMzRRV205VkFvR1drNnpHUG9qTDZNZXNvcWNQd3JCSnAweVV1YTRUb3E5N0Q1ckFFa2JqaFZ1Qi1vcnlWQzVwS1NtZUxQYmFMTlZLZ2xUWVByYmZTc0twZy10dDlMaHA4?oc=5",
+        "source": "Aviation A2Z"
+      },
+      {
+        "title": "Flydubai Cargo unveils routes for freighter network launch",
+        "url": "https://theloadstar.com/flydubai-cargo-unveils-routes-for-freighter-network-launch/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Xeneta: Shippers want short-term deals as demand squeezes capacity",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3otdml2UG5TanpCS2NTeDVsa0hldERnR2hKSDhwdG5ib2FwUmpPT05STnVwN19SbmtLcVhZT3VSaHk3VUFkYm5oZlVuSFJxRE92cDJGWHFsUTlrNlgycXQ0eHlfeFNONlNVZTFSZEtvellHSGN4ckVZSmh5TnYwUXgzRWpqalkxSmVzZFM2eFlYX1hEbkFQSjZzckY3dUVicUZFX0pYZGF6OWNN?oc=5",
+        "source": "Air Cargo News"
+      }
+    ],
+    "bytes": 665088,
+    "duration_seconds": 41.568
   }
 ]
