@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-06",
+    "title": "Air Cargo News - 06 October 2026",
+    "filename": "mac-fm-2026-10-06.mp3",
+    "published_at": "2026-10-06T06:08:49.217448+02:00",
+    "description": "Today's air cargo news: Europe-Brazil Pharma Transport Surges; Peak Season Pressure Forecast to Vary; Ethiopian Airlines Expands Freighter Fleet. Global air and specialized cargo markets are experiencing localized growth spikes and uneven capacity pressures, demanding flexible network planning.",
+    "transcript": "Good morning, MAC Fellas, this is unofficial air-cargo radio. Let's dive right in. Starting with pharma: transport between Europe and Brazil grew 150 percent in 2026. That points to higher demand for specialized temperature-controlled capacity on that lane. Elsewhere, peak season pressure is expected to develop unevenly across origins and cargo types. Meaning we could see a need for flexible capacity utilization and dynamic allocation. And finally, Ethiopian Airlines ordered eight Boeing 777-8Fs and two 777Fs for its cargo unit. Showing steady confidence in dedicated widebody freighter capacity expansion in Africa.",
+    "sources": [
+      {
+        "title": "Europe-Brazil Pharma Transport Surges",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGo4dEVXd3czdGhUbVdXUjRvbUZweXIxMnAxWjNndmtZSmZMY2NkOU1VX1hHSnpNbFFtMWFWYmJIN3d1X3d6TUVYaW81MVhLTW0xMmtIU0lZVzY1Z1hHOTRxSkFYXzBCdVlpWC1mRzFkbkdHWFhSRThWVWVlNHMxRXNjUG9wR0JvbUJ6ZDNFT0FMSFVfZnNlSUJBTlJMdENKUkw4aw?oc=5",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "Peak Season Pressure Forecast to Vary",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXJrdTNrcU9QZW1sY3ZzLXZTQkZQU01KbjhyanA2a2hJdkZ0RldKR1Zwd201UVdyUHA5SW5IMjlmSkh3TTVQUGo1bjA3cEIwV3JveHY2Y3RWcWFwamlYelAyaVNqSExlakFQMExOY0x3OER5RkFDRkxGLVRxZGhPM1dnYmhPSUNycWtCSDZPOHk2RnpGR0tyaHdCYTk2RXdJNlhaT2VGTHhxemtHSzFfQ182c01lZUQyMXBNbXZkUG9vNzRXZnc?oc=5",
+        "source": "Air Cargo News"
+      },
+      {
+        "title": "Ethiopian Airlines Expands Freighter Fleet",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSDcwTmhQYTNYOWlweFpYTUhscDlEdC0tNjN4OVVTU1ZmY2huTW8xc3Q0VTFJaUN1ZE13dXZoUllGVXdFMlBqMnd1MThOYWo2QmtwM1ZuVExGaVpWQ3NXRk5EbV9fSjRuQXpSTk45TVFmLTNEcTU4M3ZCTFBJNVJlX1owLVRPaEZva3Y2cjJSSWNFTzM0RTVaRnZ3REMwS3BFeXNtN2JLak9XcUFNOS1HS2djVUpza0M1UGF1Sk9rUWo5WWpwbkNfVU94Z1VtVGlIcTR1UzAwUFdrMWxHUHIyYjdWZ2x0dkVzblhpUFAxLURoVVU?oc=5",
+        "source": "Aviacionline"
+      }
+    ],
+    "bytes": 626688,
+    "duration_seconds": 39.168
+  },
+  {
     "date": "2026-10-05",
     "title": "Air Cargo News - 05 October 2026",
     "filename": "mac-fm-2026-10-05.mp3",
