@@ -28,7 +28,7 @@ MAC FM currently publishes:
 
 - English-language episodes;
 - roughly 45–60 seconds;
-- 3 air-cargo stories;
+- up to 3 air-cargo stories plus one practical Microsoft 365 Copilot update;
 - two synthetic hosts;
 - source links in the episode notes;
 - public-source information only.
@@ -43,7 +43,7 @@ The audio is generated from the same daily editorial selection used for the inte
 
 **Description:**
 
-> Air-cargo morning radio for MAC colleagues.
+> Air-cargo morning radio plus one practical Copilot update for MAC colleagues.
 
 Current artwork is stored in **cover.png**.
 
