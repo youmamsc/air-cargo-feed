@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-07",
+    "title": "Air Cargo News - 07 October 2026",
+    "filename": "mac-fm-2026-10-07.mp3",
+    "published_at": "2026-10-07T07:22:54.076189+02:00",
+    "description": "Today's air cargo news: Airfreight rates edge up in September ahead of peak season; Flexport launches AI agent booking tools for freight; Challenge Group suspends freighter flights to Navi Mumbai Airport. Global air cargo developments reflect shifting digital booking capabilities, rate adjustments, and evolving network footprints.",
+    "transcript": "Good morning MAC Fellas, this is MAC FM, your unofficial air-cargo morning radio. Starting with September data, global airfreight rates edged upward as carriers prep for peak season. Yield and revenue trends could definitely shift with that demand. On the tech side, Flexport launched an MCP server letting shippers' AI agents book freight and pull quotes. That kind of automation might redefine digital interaction standards across forwarding. And finally, Challenge Group suspended its freighter operations serving Navi Mumbai Airport. Highlighting potential infrastructure or handling challenges at newly launched facilities.",
+    "sources": [
+      {
+        "title": "Airfreight rates edge up in September ahead of peak season",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFFfdFRJcWtTNjczX0Zwd082dF9Mb1hfUmFMRXlqUXZodnFFNmZlV0JabnB1R1M0cGxPSGxsOHRrUGxYWURWaldqNEo2SkRVdE1tRzh6QnR0NFJMRTZVWXZsTW5TV0tkMy1HdzdiNGF6RlNnWDdNd2lETHpnMTJVdEdiMzlVbmM?oc=5",
+        "source": "Air Cargo News"
+      },
+      {
+        "title": "Flexport launches AI agent booking tools for freight",
+        "url": "https://theloadstar.com/flexport-lets-ai-agents-book-freight-who-signed-the-contract/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Challenge Group suspends freighter flights to Navi Mumbai Airport",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTd3N3pLYWJIZnRUUGNlaF90TTdNVUp5a2lZbnRoNklPRi1rVFdVVTBva2p6X0YxM0ZtUmR3TmhmMzBGeEp6bjVJOWVVdnBqajlyODhmZWdoNWNjUHpDN0tad280b2t4U19PQVFZazZmTGd0bzZKbGJ3S3lic29fcS1OcnZPNDdHRGxTY3dGdDE4ak50VVdqajJhZTZZTHMtVVhHdVUxQy0?oc=5",
+        "source": "The Bangladesh Monitor"
+      }
+    ],
+    "bytes": 581376,
+    "duration_seconds": 36.336
+  },
+  {
     "date": "2026-10-06",
     "title": "Air Cargo News - 06 October 2026",
     "filename": "mac-fm-2026-10-06.mp3",
