@@ -2,9 +2,7 @@
 
 Public distribution repository for **MAC FM**.
 
-**MAC FM** is an experimental, unofficial air-cargo morning audio brief for MAC colleagues.
-
-It is **not an official company communication**.
+**MAC FM** is an experimental air-cargo morning audio brief for MAC colleagues.
 
 This repository intentionally contains only publishable podcast output. The generation code, prompts, configuration and API secrets live in the private repository:
 
@@ -45,7 +43,7 @@ The audio is generated from the same daily editorial selection used for the inte
 
 **Description:**
 
-> Unofficial air-cargo morning radio for MAC colleagues. Not an official company communication.
+> Air-cargo morning radio for MAC colleagues.
 
 Current artwork is stored in **cover.png**.
 
