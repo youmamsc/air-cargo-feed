@@ -3,7 +3,7 @@
  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>MAC FM</title>
+  <title>Air Cargo Daily</title>
   <link>https://github.com/youmamsc/air-cargo-feed</link>
   <description>Air-cargo morning radio for MAC colleagues.</description>
   <language>en</language>
