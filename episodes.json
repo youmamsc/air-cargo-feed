@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-08",
+    "title": "Air Cargo News - 08 October 2026",
+    "filename": "mac-fm-2026-10-08.mp3",
+    "published_at": "2026-10-08T11:02:57.211435+02:00",
+    "description": "Today's air cargo news: Adani Airports Suspend Russia-Related Shipments, Stranding Indian Cargo; TRACinSURED Launches Integrated Tracking and Insurance for Sensitive Cargo; NX Logistics Forecasts Strong Growth in Japanese Airfreight Exports. Global air cargo flows are reacting to a mix of regional trade disruptions, evolving digital forwarding products, and tech-driven sector demand. Copilot: Microsoft 365 Copilot Agent in a Day Workshop Available.",
+    "transcript": "Hello MAC Fellas. Light showers in Geneva today, around sixteen degrees. So, what's on the air-cargo radar? Starting in India, where Adani Airports suspended Russia-related shipments, stranding about 150 tonnes of exports. That's going to cause sudden operational bottlenecks and route adjustments for carriers. Meanwhile, Solent Freight Services, Tag-N-Trac, and Otonomi launched a combined tracking and parametric insurance product. That packaging might influence how forwarders handle sensitive pharma and perishable shipments. And NX Logistics forecasts Japanese airfreight exports to rise 11.9% in FY26, driven by tech demand. A key indicator for tech-driven demand shifts on major lanes. Anything else on the tech side? Yes, a one-day Microsoft 365 Copilot agent workshop is now on the Microsoft Marketplace, offering practical guidance to streamline daily tasks.",
+    "sources": [
+      {
+        "title": "Adani Airports Suspend Russia-Related Shipments, Stranding Indian Cargo",
+        "url": "https://theloadstar.com/exports-stranded-as-adani-russia-embargo-creates-indian-air-cargo-chaos/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "TRACinSURED Launches Integrated Tracking and Insurance for Sensitive Cargo",
+        "url": "https://theloadstar.com/new-cover-protects-forwarders-from-late-temperature-hit-cargo/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "NX Logistics Forecasts Strong Growth in Japanese Airfreight Exports",
+        "url": "https://theloadstar.com/ai-and-data-centre-boom-still-driving-increased-global-airfreight-traffic/",
+        "source": "The Loadstar"
+      }
+    ],
+    "bytes": 830976,
+    "duration_seconds": 51.936
+  },
+  {
     "date": "2026-10-07",
     "title": "Air Cargo News - 07 October 2026",
     "filename": "mac-fm-2026-10-07.mp3",

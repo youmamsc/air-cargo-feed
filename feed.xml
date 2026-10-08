@@ -5,10 +5,10 @@
 <channel>
   <title>Air Cargo Daily</title>
   <link>https://github.com/youmamsc/air-cargo-feed</link>
-  <description>Air-cargo morning radio for MAC colleagues.</description>
+  <description>Air-cargo morning radio plus one practical Copilot update for MAC colleagues.</description>
   <language>en</language>
   <itunes:author>MAC FM</itunes:author>
-  <itunes:summary>Three air-cargo stories worth knowing, every morning.</itunes:summary>
+  <itunes:summary>Air-cargo stories plus one practical Copilot update, every morning.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="Business"/>
@@ -19,6 +19,17 @@
   </itunes:owner>
   <atom:link href="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
 
+  <item>
+    <title>Air Cargo News - 08 October 2026</title>
+    <description><![CDATA[<p>Today's air cargo news: Adani Airports Suspend Russia-Related Shipments, Stranding Indian Cargo; TRACinSURED Launches Integrated Tracking and Insurance for Sensitive Cargo; NX Logistics Forecasts Strong Growth in Japanese Airfreight Exports. Global air cargo flows are reacting to a mix of regional trade disruptions, evolving digital forwarding products, and tech-driven sector demand. Copilot: Microsoft 365 Copilot Agent in a Day Workshop Available.</p><p><strong>Sources</strong></p><ul><li><a href="https://theloadstar.com/exports-stranded-as-adani-russia-embargo-creates-indian-air-cargo-chaos/">Adani Airports Suspend Russia-Related Shipments, Stranding Indian Cargo</a> — The Loadstar</li><li><a href="https://theloadstar.com/new-cover-protects-forwarders-from-late-temperature-hit-cargo/">TRACinSURED Launches Integrated Tracking and Insurance for Sensitive Cargo</a> — The Loadstar</li><li><a href="https://theloadstar.com/ai-and-data-centre-boom-still-driving-increased-global-airfreight-traffic/">NX Logistics Forecasts Strong Growth in Japanese Airfreight Exports</a> — The Loadstar</li></ul>]]></description>
+    <pubDate>Thu, 08 Oct 2026 11:02:57 +0200</pubDate>
+    <guid isPermaLink="true">https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/episodes/mac-fm-2026-10-08.mp3</guid>
+    <enclosure url="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/episodes/mac-fm-2026-10-08.mp3" length="830976" type="audio/mpeg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="https://raw.githubusercontent.com/youmamsc/air-cargo-feed/main/cover-v3.png"/>
+    <itunes:duration>52</itunes:duration>
+  </item>
   <item>
     <title>Air Cargo News - 07 October 2026</title>
     <description><![CDATA[<p>Today's air cargo news: Airfreight rates edge up in September ahead of peak season; Flexport launches AI agent booking tools for freight; Challenge Group suspends freighter flights to Navi Mumbai Airport. Global air cargo developments reflect shifting digital booking capabilities, rate adjustments, and evolving network footprints.</p><p><strong>Sources</strong></p><ul><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFFfdFRJcWtTNjczX0Zwd082dF9Mb1hfUmFMRXlqUXZodnFFNmZlV0JabnB1R1M0cGxPSGxsOHRrUGxYWURWaldqNEo2SkRVdE1tRzh6QnR0NFJMRTZVWXZsTW5TV0tkMy1HdzdiNGF6RlNnWDdNd2lETHpnMTJVdEdiMzlVbmM?oc=5">Airfreight rates edge up in September ahead of peak season</a> — Air Cargo News</li><li><a href="https://theloadstar.com/flexport-lets-ai-agents-book-freight-who-signed-the-contract/">Flexport launches AI agent booking tools for freight</a> — The Loadstar</li><li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTd3N3pLYWJIZnRUUGNlaF90TTdNVUp5a2lZbnRoNklPRi1rVFdVVTBva2p6X0YxM0ZtUmR3TmhmMzBGeEp6bjVJOWVVdnBqajlyODhmZWdoNWNjUHpDN0tad280b2t4U19PQVFZazZmTGd0bzZKbGJ3S3lic29fcS1OcnZPNDdHRGxTY3dGdDE4ak50VVdqajJhZTZZTHMtVVhHdVUxQy0?oc=5">Challenge Group suspends freighter flights to Navi Mumbai Airport</a> — The Bangladesh Monitor</li></ul>]]></description>
