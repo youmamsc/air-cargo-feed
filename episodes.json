@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-09",
+    "title": "Air Cargo News - 09 October 2026",
+    "filename": "mac-fm-2026-10-09.mp3",
+    "published_at": "2026-10-09T08:48:24.158402+02:00",
+    "description": "Today's air cargo news: Amazon Launches Two New China-to-US Air Freight Options; Cathay Cargo Adds Transpacific Freighter Flights for Peak Season 2026. Carriers and major e-commerce players are actively adjusting transpacific capacity and freight options ahead of peak demand periods. Copilot: Create agents in Copilot Studio.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light rain in Geneva today, around sixteen degrees. So, what's on the air-cargo radar? Amazon just launched two new air freight options from China to the US. Which could definitely shake up transpacific capacity dynamics and competition. Exactly. And Cathay Cargo is also adding transpacific freighter flights for the peak season. Carriers really scaling up resources for high-demand flows. Before we wrap, quick practical update: users can now create agents in Copilot Studio. That helps knowledge workers build custom agents to streamline workflows and automate daily tasks. Handy tool. That is all for today's MAC FM.",
+    "sources": [
+      {
+        "title": "Amazon Launches Two New China-to-US Air Freight Options",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2dEdC13clNPVnlqOGtOaG9DQUJOQmZQRHozVVJqVGxCSGRrUGNpQmUyZXlwNXlfRDNyTUk2bk4wckFudkNEUS0teVRlR3I2M1pjZ1k3bEUwcE5wOGwwdGVjZmNEWFlaX005b0NyRXlLSEtIOFJGWF83Vm5WLS1aSjR3NmpIbUR5LWJOWGF0alNUaFVSN2oyNmFsbU1kQVU?oc=5",
+        "source": "Supply Chain Dive"
+      },
+      {
+        "title": "Cathay Cargo Adds Transpacific Freighter Flights for Peak Season 2026",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmRHb0tteFU0cGYxUFQ3a3d5b1IwbC13NWJINnVGTGdjMlM5bW0xek03bVN4cVVrQW42VjBVcnlxNDNzQS1NTHhMWFI3TzhlQXExQ3oyal9RNEdsamtUeTRUU01haEEtSnUtbmQtMVJFVXdCRUREaGhESHhYVW5nUlBoUmhNd1Z2RnA4M01XVVRHSGN2WHdJUjdia1ZXcG1EcFVuR2RpWjM1UWpXMzR4bkprRQ?oc=5",
+        "source": "IndexBox"
+      }
+    ],
+    "bytes": 614784,
+    "duration_seconds": 38.424
+  },
+  {
     "date": "2026-10-08",
     "title": "Air Cargo News - 08 October 2026",
     "filename": "mac-fm-2026-10-08.mp3",
