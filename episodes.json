@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-10",
+    "title": "Air Cargo News - 10 October 2026",
+    "filename": "mac-fm-2026-10-10.mp3",
+    "published_at": "2026-10-10T06:08:40.004949+02:00",
+    "description": "Today's air cargo news: Saudi Airport Disruption Squeezes Outbound Air Cargo Capacity; AI Tools Could Cut Eight Hours From Air Cargo Collections. Recent developments highlight ongoing infrastructure and operational adjustments across global air cargo networks and handling facilities. Copilot: Microsoft Community Hub Product Updates Call.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light showers in Geneva today, 13 to 17 degrees. So, what's on the air-cargo radar? Riyadh's outbound capacity dropped by a third following airport attacks. That sudden restriction in a key Middle East hub could force network rerouting and bottlenecks. On the tech side, handling leaders note AI tools might cut eight hours off cargo collections. Streamlining unstructured data could really improve operational efficiency at terminals. Before we wrap, a quick Microsoft Community Hub call covered recent updates for Copilot, Microsoft 365, and Power Platform. Useful for knowledge workers tracking changes across those daily tools.",
+    "sources": [
+      {
+        "title": "Saudi Airport Disruption Squeezes Outbound Air Cargo Capacity",
+        "url": "https://theloadstar.com/saudi-disruption-squeezes-air-cargo-capacity-as-peak-looms/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "AI Tools Could Cut Eight Hours From Air Cargo Collections",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjhTX1RJMWNoenl2MGkwUFVSM3VLakR0SUtrSGNkU0JGZHUyeU1QOEtUN0JJNnprR2pzZ0hkVGVGelNJM0FJQzMzekQtZUdyOVF5WVh5Rjc4YnlPRm9VdWw2NWZSM3JRazg4UW96ak9tazU4UTVOLVJsSENYaWlZUFdsQ0pSNS1kVDVZbHlqVXo5dEZyTk9lUDIwdWg?oc=5",
+        "source": "The Loadstar"
+      }
+    ],
+    "bytes": 648576,
+    "duration_seconds": 40.536
+  },
+  {
     "date": "2026-10-09",
     "title": "Air Cargo News - 09 October 2026",
     "filename": "mac-fm-2026-10-09.mp3",
