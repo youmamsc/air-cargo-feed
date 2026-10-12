@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-12",
+    "title": "Air Cargo News - 12 October 2026",
+    "filename": "mac-fm-2026-10-12.mp3",
+    "published_at": "2026-10-12T06:08:23.387040+02:00",
+    "description": "Today's air cargo news: Emirates SkyCargo Adds Seven Weekly Flights Across Latin America; Samsung SDS Acquires Woojung Air to Strengthen Global Freight Network. Recent developments highlight ongoing network adjustments and strategic consolidation across key global air cargo markets. Copilot: Microsoft 365 Copilot Agents: 1-Day Workshop Available.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Cloudy in Geneva today, 7 to 17 degrees. So, what's on the air-cargo radar? Emirates added seven weekly cargo flights across Latin America, hitting Brazil, Argentina, Colombia, and Ecuador. Reflecting shifting trade demands in the region. Definitely worth watching for competitive network adjustments. Also, Samsung SDS has acquired Woojung Air to bolster global air freight capabilities. Forwarder consolidation that could influence market dynamics and control over dedicated capacity lanes. Before we wrap, a quick Microsoft Copilot update: a one-day workshop for Copilot agents is listed on the marketplace. Good for exploring structured training to build and deploy custom agents for daily tasks.",
+    "sources": [
+      {
+        "title": "Emirates SkyCargo Adds Seven Weekly Flights Across Latin America",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV3dLZ2lYSWZLa0dqOXRSRVZ3UTJkd3dhZFk2di1hRVQtWUZhMlcwQWZMb2pQeFFpWGpDV0VsTnpGb20yZTREWnpUdFgzQl9nMFBDUmVOMHktLVBpWS1zSUpTSjhGTHpBVDBYdFl1NmFmNW1FblctcE1EMmI4MTB4d0NJNkdYREZaSzBKcWg3bl96QXJyZU9ubDJQSlhrMHIwZExEckJCd2FWZzRnTjFub0JCUDhQQjJKVU43MFVzMkZoZw?oc=5",
+        "source": "Rus Tourism News"
+      },
+      {
+        "title": "Samsung SDS Acquires Woojung Air to Strengthen Global Freight Network",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjQzU0ZFZQTjZCQUJUbXhad3NHdlVPeWdtV0U3ellQSzcxNUlzZEhiVURCZHBSQnFLbXJGa21uR0FsVXdZOFJSMmNXdEhWLUNOQ1JHTnEtNA?oc=5",
+        "source": "The Korea Herald"
+      }
+    ],
+    "bytes": 670848,
+    "duration_seconds": 41.928
+  },
+  {
     "date": "2026-10-11",
     "title": "Air Cargo News - 11 October 2026",
     "filename": "mac-fm-2026-10-11.mp3",
