@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-13",
+    "title": "Air Cargo News - 13 October 2026",
+    "filename": "mac-fm-2026-10-13.mp3",
+    "published_at": "2026-10-13T06:08:21.220443+02:00",
+    "description": "Today's air cargo news: WorldACD Reports 9% Increase in Global Air Cargo Volumes for September; Delta Air Lines Reports Q3 Cargo Revenue Reaches $301m. Recent data highlights robust global volume growth and strong quarterly revenue performance heading into the peak season. Copilot: Copilot Notebooks licensing options detailed by Microsoft Support.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Foggy in Geneva today, 6 to 17 degrees. So, what's on the air-cargo radar? WorldACD reports global air cargo volumes rose 9% year-over-year in September. That growth is a useful baseline for peak season demand planning and yield optimization. And Delta Air Lines announced Q3 cargo revenue increased by 29% to $301 million. Indicating robust financial performance and yield recovery among major combination carriers. Before we wrap, Microsoft Support published licensing details for Copilot Notebooks. Knowledge workers can review these to understand access for daily workflows. Check those options out. Catch you on the next edition.",
+    "sources": [
+      {
+        "title": "WorldACD Reports 9% Increase in Global Air Cargo Volumes for September",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQazNvX0FLRkkwNWtuY1RQMDI2Q3NlMWdjekFPTkc3YlV0ZVp2U1FSQ2VLWkxuM2ppMENZc0MzMXRlRHNrUzdPT3lFdU9ZcncwWXBma19ZeVJ2ekZSZm90R2J4dE9Uc205eExhTUlKR05Zbl8xcElZc1loemtoSkJqYVJhSVRpeThUaU51Und5WmRSbDNkeTBLNnV3Ukd4Z9IBowFBVV95cUxOSGg3cTJVMmlGUE8wemV2VzN0cG1pYkRNZktRMHZ5NXBJLXdQV0FoeG9sRWNGWWlIWW13aUstTHBDazhrdmpnSGVrYjZtZ2FIQ0tNc0NQVmFvZ2FSVHNtbUdPVUZCWXFWaENpbjljcU1sNl9GR0o5TFBjTl9aM3BETnJpYlM2dkNZMzhTMG5wMURtMmdwRDRkeG5xSVBOTy1ubUxN?oc=5",
+        "source": "STAT Times"
+      },
+      {
+        "title": "Delta Air Lines Reports Q3 Cargo Revenue Reaches $301m",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWV9wdzBjYmxjVFpBX01YSGphVlN1Z1YtejVkQXBhSWhpbHg0elFtMGxHR1M3MkVyc2VGakRRYlFwdnllWDd5M2ZUZW90UXNIemVZWVdnbVpUa3lnX1JYX2RYMGZYVDhvbzlVc3drcUw4U2ZJSWpZT011N2FaM0R4WDU2SFJvMnhieTE0?oc=5",
+        "source": "IndexBox"
+      }
+    ],
+    "bytes": 699264,
+    "duration_seconds": 43.704
+  },
+  {
     "date": "2026-10-12",
     "title": "Air Cargo News - 12 October 2026",
     "filename": "mac-fm-2026-10-12.mp3",
