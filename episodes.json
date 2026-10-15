@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-15",
+    "title": "Air Cargo News - 15 October 2026",
+    "filename": "mac-fm-2026-10-15.mp3",
+    "published_at": "2026-10-15T06:38:14.690205+02:00",
+    "description": "Today's air cargo news: AI infrastructure shippers risk sharp airfreight peak capacity squeeze; Lufthansa Cargo adds Singapore freighter link and makes European routes permanent. Carriers and forwarders are adjusting capacity, digital connectivity, and network footprints as late-season demand pressures mount. Copilot: Netsurit Agent Control Tower available on Microsoft Marketplace.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Foggy in Geneva today, 8 to 22 degrees. So, what's on the air-cargo radar? AI infrastructure shippers seeking peak-season capacity could push air freight rates higher as server demand adds pressure. That could mean tighter space for other verticals as late-booking shippers compete for remaining widebody capacity. Meanwhile, Lufthansa Cargo added a Singapore freighter link and made several European routes permanent. Tactical positioning ahead of the peak season, which may influence regional capacity distribution. Before we wrap, the Netsurit Agent Control Tower is now listed on the Microsoft Marketplace to help manage workspace agents. A practical tool to oversee digital agents. Thanks for tuning in, MAC Fellas.",
+    "sources": [
+      {
+        "title": "AI infrastructure shippers risk sharp airfreight peak capacity squeeze",
+        "url": "https://theloadstar.com/ai-shippers-still-looking-for-capacity-risk-sharp-airfreight-peak-squeeze/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Lufthansa Cargo adds Singapore freighter link and makes European routes permanent",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2dmV0czcTVLQXY2cDdZQ21EQ2JaZkxxSHh0SG55YjhvR3B1ZktSTzZqSlh1aktUR09OR1NuaUZVTk1sdkpSQTd0WFBUdFJBVlBoSmlIdUs4ZHpyb3B0MzExVWs4NXA3MGxuanJ6VzRxMXFtTFN3eHdUOTRDRFA2ci1rRDhBTlBmbmdQTWRQYm5MMXl1cHhoNXQ2MDNXbmEyYTRBOHU2MktxOGZ2NGdDbHRHYTVwOFRQ?oc=5",
+        "source": "Cargo Facts"
+      }
+    ],
+    "bytes": 706176,
+    "duration_seconds": 44.136
+  },
+  {
     "date": "2026-10-14",
     "title": "Air Cargo News - 14 October 2026",
     "filename": "mac-fm-2026-10-14.mp3",
