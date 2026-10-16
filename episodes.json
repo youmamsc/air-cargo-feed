@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-16",
+    "title": "Air Cargo News - 16 October 2026",
+    "filename": "mac-fm-2026-10-16.mp3",
+    "published_at": "2026-10-16T06:08:28.853559+02:00",
+    "description": "Today's air cargo news: LATAM Cargo reports 150% rise in Europe-Brazil pharma traffic; Schiphol cargo records 8% tonnage growth in September; CMA CGM and HappyRobot scale up voice-based AI solution. Today's developments highlight ongoing volume shifts in specific verticals alongside continued investments in hub infrastructure and operational automation. Copilot: Try what's next in AI with Microsoft.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Foggy in Geneva today, 11 to 21 degrees. So, what's on the air-cargo radar? LATAM Cargo saw a 150 percent jump in Europe-Brazil pharma traffic in the first seven months, driven by GLP-1 meds. That sharp vertical growth in key trade lanes really points to shifting yield opportunities for cold-chain capacity. And Schiphol just reported an eight percent increase in cargo tonnage for September. A solid volume benchmark signalling stronger European hub throughput heading into peak season. Also, CMA CGM is scaling up its multilingual AI voice solution with HappyRobot across sales and customer service. Automated voice tools like that should definitely accelerate booking and customer service workflows. Before we wrap, Microsoft announced updates letting users try new AI capabilities to enhance daily productivity. Handy for sharpening workflows. That is all for today.",
+    "sources": [
+      {
+        "title": "LATAM Cargo reports 150% rise in Europe-Brazil pharma traffic",
+        "url": "https://theloadstar.com/pharma-traffic-on-the-rise-for-latam-cargo-but-global-market-stays-flat/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Schiphol cargo records 8% tonnage growth in September",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZU5UTExLNHdvZklRd2FOY01XekZJOHZxSnBsSHpNQ09vMGtVSThGMGZuVjVOVzB0bjFkWTFqRXU1dWFNM1NZRWRBSTdVNzVsYmJqMG05aExWdUZwYjdvQTFnRUtxejFEVXVwdFVSZXE1OFFOSGNMRG1oRkF1WTd4TGxVNml6WDQtWUFWQnVNVQ?oc=5",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "CMA CGM and HappyRobot scale up voice-based AI solution",
+        "url": "https://theloadstar.com/cma-cgm-happyrobot-scale-up-a-bespoke-voice-based-ai-solution/",
+        "source": "The Loadstar"
+      }
+    ],
+    "bytes": 905856,
+    "duration_seconds": 56.616
+  },
+  {
     "date": "2026-10-15",
     "title": "Air Cargo News - 15 October 2026",
     "filename": "mac-fm-2026-10-15.mp3",
