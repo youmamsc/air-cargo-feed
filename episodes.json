@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-20",
+    "title": "Air Cargo News - 20 October 2026",
+    "filename": "mac-fm-2026-10-20.mp3",
+    "published_at": "2026-10-20T06:38:04.083202+02:00",
+    "description": "Today's air cargo news: New EU Parcel Charges Increase Cost Pressures on Cross-Border E-Commerce; Silk Way West Expands Fleet with Two Airbus A350F Freighter Orders. Today's developments highlight ongoing adjustments in cross-border fulfillment costs and dedicated freighter fleet investments. Copilot: Planner capabilities in Microsoft 365 Copilot.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Rainy in Geneva today, twelve to fifteen degrees. So, what is on the air-cargo radar? New EU parcel charges are increasing cost pressures on cross-border e-commerce fulfilment, which might alter regional air-cargo flow patterns. Retailers may shift stocking strategies then. Meanwhile, Silk Way West has ordered two Airbus A350F freighters. A notable widebody fleet investment pointing to long-term dedicated capacity growth. Before we wrap, let us touch on Microsoft 365 Copilot. Right, new Planner capabilities let users organize and track tasks more efficiently within their workflows. Handy for keeping operations straight. Have a great shift, everyone.",
+    "sources": [
+      {
+        "title": "New EU Parcel Charges Increase Cost Pressures on Cross-Border E-Commerce",
+        "url": "https://theloadstar.com/new-eu-parcel-charges-add-pressure-for-rethink-on-cross-border-fulfilment/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Silk Way West Expands Fleet with Two Airbus A350F Freighter Orders",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaQlptc1ZBMmtWSklYa2drZWZiOW1xbGV2ajllZ2s1bGUyTWxYOXNISE1vUlZHdk9rZUs0dEVRR212VEhtMjRzM1VWRVhLNlFDOGdLdTM3Rlp4VkNmWEVjZllFRDM5N1VOTjZNUVAxWHRPMWpzRW02Nkk0ZVZBZw?oc=5",
+        "source": "https://safariindia.com/"
+      }
+    ],
+    "bytes": 662784,
+    "duration_seconds": 41.424
+  },
+  {
     "date": "2026-10-19",
     "title": "Air Cargo News - 19 October 2026",
     "filename": "mac-fm-2026-10-19.mp3",
