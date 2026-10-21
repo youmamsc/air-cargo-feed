@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-21",
+    "title": "Air Cargo News - 21 October 2026",
+    "filename": "mac-fm-2026-10-21.mp3",
+    "published_at": "2026-10-21T06:08:44.245644+02:00",
+    "description": "Today's air cargo news: Airlines expand winter freighter links to navigate shifting regional capacity; Upcoming EU €2 handling fee threatens inbound e-commerce air cargo volumes. Air cargo operators are actively adjusting winter capacity and adapting to regulatory shifts affecting low-value e-commerce flows. Copilot: OneDrive receives updates with Copilot capabilities, sharing, and photos.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light showers in Geneva today, around fourteen degrees. So, what's on the air-cargo radar? Airlines are strengthening winter freighter links between Asia, Europe, and the Americas with added transatlantic and transpacific options. That network adjustment could alter regional capacity distribution and impact how forwarders manage seasonal trade flows. And looking at e-commerce, the EU's new two euro handling fee per line takes effect November first. Right, which could further depress inbound e-commerce volumes by raising landed costs for low-value shipments. Before we wrap, OneDrive received updates with new Copilot capabilities, simpler sharing, and smarter photo features. You can use those to manage files more efficiently and find photos faster across daily workflows. That is all for today.",
+    "sources": [
+      {
+        "title": "Airlines expand winter freighter links to navigate shifting regional capacity",
+        "url": "https://theloadstar.com/airlines-strengthen-winter-freighter-links-as-forwarders-face-capacity-shuffle/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Upcoming EU €2 handling fee threatens inbound e-commerce air cargo volumes",
+        "url": "https://aircargoweek.com/countdown-to-eu-e2-handling-fee-applied-from-1st-november/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 786816,
+    "duration_seconds": 49.176
+  },
+  {
     "date": "2026-10-20",
     "title": "Air Cargo News - 20 October 2026",
     "filename": "mac-fm-2026-10-20.mp3",
