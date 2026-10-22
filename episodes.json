@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-22",
+    "title": "Air Cargo News - 22 October 2026",
+    "filename": "mac-fm-2026-10-22.mp3",
+    "published_at": "2026-10-22T06:08:40.234771+02:00",
+    "description": "Today's air cargo news: Nearly two-thirds of Far East-Europe ocean capacity returns to Suez Canal; East Midlands Airport reports 6.3 percent increase in September freight; Atlas Air expands Airbus A350F deal for up to 60 freighters. Global air and ocean logistics networks are adjusting to shifting modal balances, regional volume growth, and long-term fleet developments. Copilot: Azure DevOps available in Microsoft Copilot.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light showers in Geneva today, 7 to 14 degrees. So, what's on the air-cargo radar? Alphaliner data shows 63 percent of Far East-Europe ocean capacity is back to the Suez Canal. That could ease supply chain urgency and temper premium air cargo demand. Meanwhile, East Midlands Airport handled 36,000 extra tonnes, boosting September freight by 6.3 percent year-on-year. That volume growth might signal rising regional throughput ahead of the peak season. And Atlas Air expanded its agreement to potentially operate up to 60 Airbus A350F freighters. Pointing to structural growth in dedicated global capacity. Plus, Azure DevOps integration is now available within Microsoft Copilot, helping streamline technical workflows.",
+    "sources": [
+      {
+        "title": "Nearly two-thirds of Far East-Europe ocean capacity returns to Suez Canal",
+        "url": "https://theloadstar.com/nearly-two-thirds-of-far-east-europe-capacity-now-back-to-suez-canal/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "East Midlands Airport reports 6.3 percent increase in September freight",
+        "url": "https://aircargoweek.com/freight-handled-at-east-midlands-airport-increases-by-6-3-percent-in-september/",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "Atlas Air expands Airbus A350F deal for up to 60 freighters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSW1Ld0ZoWlBPSVI2Zzg3UWU5RllfVXJzRVdRVjhTUjFMeUMtWGFjNzFpQVZTUzJ4MUR3enU4SmtaZU9OVWxCS2U5eUQ2TEstbDU3a0tkOFdQZkJNNG9JMmRXeHRuamtHY3lUSmkxWFVvcEV1R0x3TlBkdVU4N0pXUE84WEU5UFJNZnlReHAyUktVYktITnl5d3JzcnU2cHF5N1lVXzRQOEdndVU?oc=5",
+        "source": "Air Data News"
+      }
+    ],
+    "bytes": 776064,
+    "duration_seconds": 48.504
+  },
+  {
     "date": "2026-10-21",
     "title": "Air Cargo News - 21 October 2026",
     "filename": "mac-fm-2026-10-21.mp3",
