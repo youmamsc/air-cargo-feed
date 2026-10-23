@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-23",
+    "title": "Air Cargo News - 23 October 2026",
+    "filename": "mac-fm-2026-10-23.mp3",
+    "published_at": "2026-10-23T06:08:26.252218+02:00",
+    "description": "Today's air cargo news: Kuehne+Nagel Q3 Air Volumes Surge 9.8% on Tech Shipments; Liege-Chicago Pharma Corridor Exceeds 10,000 Tonnes. Growth in specialized high-tech and pharmaceutical sectors continues to drive measurable volume gains and infrastructure utilization across key cargo hubs. Copilot: Explore user feedback using the Microsoft 365 Insights Agent.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light showers in Geneva today, 6 to 15 degrees. Let's hit the air-cargo radar. Starting with Kuehne+Nagel, where third-quarter airfreight volumes surged 9.8 percent to 619,000 tonnes. Driven heavily by semiconductors and cloud infrastructure shipments. Sounds like tightening demand on key trade lanes. Then over to pharma, where the scheduled corridor between Liege Airport and Chicago O'Hare surpassed 10,000 tonnes. All thanks to investments in cool chain handling facilities. Shows sustained need for dedicated pharma capacity. Before we wrap up, a quick tech note: the Microsoft 365 Insights Agent is now available to help explore user feedback. Very handy for analyzing feedback right inside your daily workflow. Have a great shift, everyone.",
+    "sources": [
+      {
+        "title": "Kuehne+Nagel Q3 Air Volumes Surge 9.8% on Tech Shipments",
+        "url": "https://theloadstar.com/hi-tech-cargo-powers-kn-growth-as-dsv-rebuilds-volumes/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Liege-Chicago Pharma Corridor Exceeds 10,000 Tonnes",
+        "url": "https://aircargoweek.com/liege-airport-reaches-over-10000-tonnes-of-traffic-to-and-from-chicago-ohare/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 734976,
+    "duration_seconds": 45.936
+  },
+  {
     "date": "2026-10-22",
     "title": "Air Cargo News - 22 October 2026",
     "filename": "mac-fm-2026-10-22.mp3",
