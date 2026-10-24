@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-24",
+    "title": "Air Cargo News - 24 October 2026",
+    "filename": "mac-fm-2026-10-24.mp3",
+    "published_at": "2026-10-24T06:08:47.812739+02:00",
+    "description": "Today's air cargo news: Kuehne+Nagel reports 10% volume growth driven by hard cargo peak demand; AI infrastructure demand accelerates air cargo peak season volumes. Air cargo peak season momentum is building, driven by strong hard cargo volumes and specialized tech infrastructure demand. Copilot: Build interactive apps in Microsoft Copilot Cowork Preview.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light showers in Geneva today, 8 to 10 degrees. So, what's on the air-cargo radar? Kuehne+Nagel posted a 10% jump in third-quarter airfreight volumes, pointing to market share gains and hard cargo demand. That extra forwarding volume could definitely tighten maindeck capacity and push spot rates higher on key export lanes. And there is more: rising demand for AI infrastructure is also actively propelling peak season volumes. Right, specialized high-tech shipments absorbing widebody capacity like that could really shift yield dynamics and routing priorities. Before we wrap, a quick tech note: Microsoft Copilot Cowork Preview now lets you build interactive apps for your daily workflow. Handy for quick tasks. Have a great shift, everyone.",
+    "sources": [
+      {
+        "title": "Kuehne+Nagel reports 10% volume growth driven by hard cargo peak demand",
+        "url": "https://theloadstar.com/kn-claims-market-share-gains-as-strong-air-cargo-peak-gathers-pace/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "AI infrastructure demand accelerates air cargo peak season volumes",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVGdMaGtJeU9oZnc5N1Z5bUF6UFFuNXdRaFZDeERYRFdPRDQ0MmNsMWFrdEVHZFhYODZhcWdOMndKc3NBeHJyYXlfQXJpbHF0Q09mSDZKaWZtZkpVd3lVMjA5a29OOXlKQmFBRy1jb3BtaGhwVnVIdXFJRXY4YWtQMVFkRFhmbUVLNnk2LWRDaVRKa3EyaXczR2Z3?oc=5",
+        "source": "Journal of Commerce"
+      }
+    ],
+    "bytes": 726144,
+    "duration_seconds": 45.384
+  },
+  {
     "date": "2026-10-23",
     "title": "Air Cargo News - 23 October 2026",
     "filename": "mac-fm-2026-10-23.mp3",
