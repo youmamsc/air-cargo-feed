@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-10-25",
+    "title": "Air Cargo News - 25 October 2026",
+    "filename": "mac-fm-2026-10-25.mp3",
+    "published_at": "2026-10-25T06:38:19.955783+01:00",
+    "description": "Today's air cargo news: Brent Crude Surges to $117 Amid Severe Middle East Disruptions; New EU Import Rules and Costs Threaten Inbound E-Commerce; Cargolux Inspects 747-8F Undercarriage Fleet After Ground Incident. Escalating operational costs, regulatory changes, and safety checks are converging to pressure air cargo capacity and margins. Copilot: OneDrive and Copilot Event Details Announced.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light showers in Geneva today, reaching 15 degrees. What's on the radar, Leonore? Brent crude surged to $117 following 28 attacks in the Strait of Hormuz this month. Rising fuel costs and security risks could push freight rates up and force route adjustments. Meanwhile, Cargolux is inspecting its 747-8F undercarriages after a parked jet's gear collapsed. That could temporarily squeeze widebody capacity on long-haul lanes. Commercially, what's happening with European e-commerce? New EU rules and higher costs hit non-EU shipments on November 1st, potentially reducing inbound parcel volumes. Time for our Copilot tip. Microsoft announced an event showcasing Copilot integration with OneDrive. It focuses on helping knowledge workers manage and retrieve files more efficiently using AI. Useful stuff!",
+    "sources": [
+      {
+        "title": "Brent Crude Surges to $117 Amid Severe Middle East Disruptions",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IdE9HNUJ6WmFiWXBneDQ3SUpYS1VhWlJmVEo3czlhTjNkMVlUOU51UXp6YjQ2cXlfRkszXzJySlhZV3FKdlpyVkRrOUhzaEg4bnNqMFFweF8tY0h1ODVYRVg2Szl3NHpBQ1M4N1hieW5IS0JUbXc?oc=5",
+        "source": "BigGo Finance"
+      },
+      {
+        "title": "New EU Import Rules and Costs Threaten Inbound E-Commerce",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONDBLOFlqcU5laGphQ05SQnY5Y2ZycUVvWTVyempJM3VSM0tLNkFqc3laQlo3VWVaRTJSd056bXE2cUlBZi1qUTFlNXVCWVUtcTd0WWU2MWNGVWIydHpQVXZNbS1QdGVBZ0gyMWhKaEZGdnp1VHF2ZTFmMXdVS0VZTVdaUDJyVkFfVWNTNzR2bjhmMEY2dzU5ODV1cE9CUkJKbHdPOXphYWVJWl96RWZtYW1TSEZmRnU5R2VfRnRlOVFhbXpFcjhYVDdTUXo?oc=5",
+        "source": "Visit Ukraine"
+      },
+      {
+        "title": "Cargolux Inspects 747-8F Undercarriage Fleet After Ground Incident",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0xWc19uTUFGbmJMVkNXVDN2LXZDU1RHUEtSTnlyQ3FrQXlDUEhmWlBXQnUycmk1SF9aVVhINXYtOUZRZW5LWmxCeFJfcGxzRVBpUy1MLXlfX3VzTlJoMjMwTVo3cHR1MUJja1dHTlRHWDdtU05pZG9vOFFqUFNOUjBma2JYX0EzMGpTWUZnc0FWUnZGbVkyNjh2V0Q2Y2xUQzFQamhmazNHTG1ZSG5YWnZPV0lRNHQxRmhlUUJPVjBuZEVYUS03bjBB?oc=5",
+        "source": "FlightGlobal"
+      }
+    ],
+    "bytes": 850944,
+    "duration_seconds": 53.184
+  },
+  {
     "date": "2026-10-24",
     "title": "Air Cargo News - 24 October 2026",
     "filename": "mac-fm-2026-10-24.mp3",
