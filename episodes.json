@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-27",
+    "title": "Air Cargo News - 27 October 2026",
+    "filename": "mac-fm-2026-10-27.mp3",
+    "published_at": "2026-10-27T06:08:29.609293+01:00",
+    "description": "Today's air cargo news: Global Airfreight Rates Climb on Asia-Pacific Demand and Jet Fuel Surge; C.H. Robinson Deploys AI Agents for Air Freight Pricing and Customs. The air cargo market is navigating rising seasonal yields and fuel pressures alongside accelerated adoption of digital automation in forwarding operations. Copilot: Publish rich and interactive content with HTML pages in SharePoint.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light drizzle in Geneva today, 6 to 15 degrees. So, what's on the air-cargo radar? Global airfreight rates are climbing above peak season highs, driven by jet fuel price surges and strong Asia-Pacific demand. Higher yields could expand carrier revenues, but escalating fuel costs definitely push operating expenses up on key trade lanes. Elsewhere, C.H. Robinson is deploying autonomous AI agents to accelerate air freight quoting and customs brokerage workflows. Faster quotes and automated booking processes should boost operational efficiency and alter digital service delivery dynamics. And in tech updates, SharePoint now supports publishing rich HTML pages to enhance team collaboration and information sharing. Very handy for embedding custom interactive web content directly into sites. That's all for today, MAC Fellas.",
+    "sources": [
+      {
+        "title": "Global Airfreight Rates Climb on Asia-Pacific Demand and Jet Fuel Surge",
+        "url": "https://theloadstar.com/asia-pacific-the-star-performer-as-airfreight-rates-take-off/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "C.H. Robinson Deploys AI Agents for Air Freight Pricing and Customs",
+        "url": "https://aircargoweek.com/c-h-robinson-overhauls-ai-usage-for-air-freight-and-customs-brokerage/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 820608,
+    "duration_seconds": 51.288
+  },
+  {
     "date": "2026-10-25",
     "title": "Air Cargo News - 25 October 2026",
     "filename": "mac-fm-2026-10-25.mp3",
