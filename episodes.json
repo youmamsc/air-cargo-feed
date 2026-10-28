@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-28",
+    "title": "Air Cargo News - 28 October 2026",
+    "filename": "mac-fm-2026-10-28.mp3",
+    "published_at": "2026-10-28T06:08:30.149788+01:00",
+    "description": "Today's air cargo news: Riyadh Airport Outbound Capacity Plummets Following Security Incidents; EU Introduces €2 Handling Fee on Small Parcels to Target E-Commerce. Regional disruptions and regulatory changes are directly challenging capacity availability and cost structures in key air cargo markets. Copilot: Create interactive slides with Copilot in PowerPoint.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light showers in Geneva today, 8 to 15 degrees. So, what's on the air-cargo radar? Starting in Riyadh, where outbound capacity dropped sharply to 6 percent of normal after recent security incidents. That severe restriction could force carriers to reroute regional flows and tighten capacity on Middle Eastern transit lanes. Meanwhile, the EU is introducing a 2 euro handling fee on non-EU small parcels in November. That adds cost pressure on cross-border e-commerce and could depress inbound volumes. And on the tech side, Microsoft updated documentation on creating interactive slides using Copilot in PowerPoint. Handy for quickly building engaging presentations. That's all for today, MAC Fellas.",
+    "sources": [
+      {
+        "title": "Riyadh Airport Outbound Capacity Plummets Following Security Incidents",
+        "url": "https://aircargoweek.com/riyadh-airport-lost-up-to-1500-tonnes-of-outbound-air-cargo-capacity-a-day/",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "EU Introduces €2 Handling Fee on Small Parcels to Target E-Commerce",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14OTAxRDBLQV9wQlN3cEN1V0lieGxLMDk3NkRXV29XME10NERUbXhwS05LZVViZFdBdVZsbnlOTFh0QnZvajYtdFJ4bWNPZzNHc0NybUx4dVdsRC1xT0xLWUdnSjRBRUI1Z2w3cEl0WXJ4S3lZQWc?oc=5",
+        "source": "BigGo Finance"
+      }
+    ],
+    "bytes": 699648,
+    "duration_seconds": 43.728
+  },
+  {
     "date": "2026-10-27",
     "title": "Air Cargo News - 27 October 2026",
     "filename": "mac-fm-2026-10-27.mp3",
