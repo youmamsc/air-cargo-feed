@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-29",
+    "title": "Air Cargo News - 29 October 2026",
+    "filename": "mac-fm-2026-10-29.mp3",
+    "published_at": "2026-10-29T06:38:06.902869+01:00",
+    "description": "Today's air cargo news: Challenge Group Launches India-Europe-US B777 Freighter Service; CargoAi Reports 70% of Email Inquiries Handled by AI Agent. Air cargo operators are actively expanding widebody freighter network connectivity while ramping up AI-driven booking automation. Copilot: SharePoint Knowledge Base preview available.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Happy birthday to Marc! Cloudy in Geneva today, 10 to 13 degrees. So, what's on the air-cargo radar? Challenge Group launched a new twice-weekly B777 freighter route connecting India, Europe, and the US, complete with pharma trucking. That dedicated temperature-controlled trucking could really shift yields and capacity on key Eurasian and transatlantic lanes. And on the digital side, CargoAi says its AI agent now handles 70 percent of email inquiries for its airline and forwarder users. Automation like that speeds up bookings and cuts operational overhead. Speaking of tech tools, Microsoft's SharePoint Knowledge Base preview is now available. Users can check out that early documentation to set up knowledge bases for day-to-day team collaboration. That is all for today. Catch you next time on MAC FM.",
+    "sources": [
+      {
+        "title": "Challenge Group Launches India-Europe-US B777 Freighter Service",
+        "url": "https://aircargoweek.com/challenge-group-to-operate-new-twice-weekly-india-europe-us-freighter-connection/",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "CargoAi Reports 70% of Email Inquiries Handled by AI Agent",
+        "url": "https://aircargoweek.com/70-percent-of-email-enquiries-for-airlines-and-forwarders-of-cargoais-customer-base-handled-by-ai-agent/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 782208,
+    "duration_seconds": 48.888
+  },
+  {
     "date": "2026-10-28",
     "title": "Air Cargo News - 28 October 2026",
     "filename": "mac-fm-2026-10-28.mp3",
