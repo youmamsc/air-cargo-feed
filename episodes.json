@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-10-30",
+    "title": "Air Cargo News - 30 October 2026",
+    "filename": "mac-fm-2026-10-30.mp3",
+    "published_at": "2026-10-30T06:08:57.462107+01:00",
+    "description": "Today's air cargo news: IATA Reports 7.7% Increase in Global Air Cargo Demand for September 2026; Soaring Jet Fuel Prices Outpace Airfreight Yields, Squeezing Freighters. Strong September demand growth is colliding with mounting cost pressures from surging fuel prices, testing carrier profitability. Copilot: Copilot UX components are generally available.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Happy birthday to Aleksandra! Geneva today: cloudy, 9 to 12 degrees, with a 0 percent chance of rain. So, what's on the air-cargo radar? IATA reports global air cargo demand rose 7.7% in September, driven by high-tech and AI shipments. That volume growth points straight to a robust peak season and higher capacity utilization. True, but Rotate notes jet fuel prices surged 111% year-on-year, squeezing freighter economics. Escalating operating costs could definitely pressure margins if yield gains don't cover fuel inflation. Before we wrap up, Copilot UX components are now generally available to build interactive daily workflows. Handy for tasks. That's all for today, MAC Fellas.",
+    "sources": [
+      {
+        "title": "IATA Reports 7.7% Increase in Global Air Cargo Demand for September 2026",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90ZzhaUWtDZmd2MHBmOFhIVHZ3UElmVEEyQzhySVY2SUltaXBPcXFMQXdwbjVMZGRiZXNZNnJmSnI4N2RxZ0tTUjNTQ1ZsejZSZGYxNVk0WnlFcnJqYVdGOXdJLXRVbHcxdFprZG56QnhKd2lRdmVpVTBCQQ?oc=5",
+        "source": "Aviation Business Middle East"
+      },
+      {
+        "title": "Soaring Jet Fuel Prices Outpace Airfreight Yields, Squeezing Freighters",
+        "url": "https://theloadstar.com/air-cargo-growth-masks-freighter-squeeze-as-fuel-price-outpaces-yields/",
+        "source": "The Loadstar"
+      }
+    ],
+    "bytes": 686208,
+    "duration_seconds": 42.888
+  },
+  {
     "date": "2026-10-29",
     "title": "Air Cargo News - 29 October 2026",
     "filename": "mac-fm-2026-10-29.mp3",
