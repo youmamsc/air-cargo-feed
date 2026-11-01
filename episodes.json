@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-01",
+    "title": "Air Cargo News - 01 November 2026",
+    "filename": "mac-fm-2026-11-01.mp3",
+    "published_at": "2026-11-01T06:08:46.318998+01:00",
+    "description": "Today's air cargo news: Middle East Tensions and Rising Fuel Costs Drive Air Cargo Rates Higher; IATA Reports 7.7% Year-on-Year Increase in Global Air Cargo Demand for September; EU Implements New Levy on Parcels Impacting Cross-Border E-Commerce. Growing demand and geopolitical cost pressures are tightening air cargo markets as new regulatory and operational headwinds emerge. Copilot: Microsoft shares best recipes for cooking up better Copilot prompts.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Cloudy in Geneva today, 8 to 11 degrees. So, what's on the air-cargo radar? Starting with Middle East tensions and fuel costs pushing cargo rates higher, which could tighten yield management. That definitely impacts operating costs. Meanwhile, IATA reported global air cargo demand up 7.7% year-on-year for September. Which supports stronger chargeable weight volumes into the peak season. Plus, the EU's new parcel levy is officially in effect. That additional landed cost might alter e-commerce trade flows for inbound European freight. Shifting gears to our Copilot update, Microsoft published new prompt recipes to help knowledge workers improve daily tool outputs. A handy quick fix for better daily productivity.",
+    "sources": [
+      {
+        "title": "Middle East Tensions and Rising Fuel Costs Drive Air Cargo Rates Higher",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2JYS2pSV2ZPdDlPUmZDX2hsN3VPaVZaNzhMMEZGUklTa1paQjk0NVZ2NEY5MFNtckZmOV92WjlzTjd4ZkJhQXAwcG81RW1VUEdZVWx5cUY5QVAyOU5tMEsxYlZSUlFwUTZWSTdTWjRRVjgwbzJzYWdHNUpDN1h1dHk5M1k0ZDREbHItU2VGX0ZLYndaT0QtdmR5RHdKb3NvbEZGZXd3?oc=5",
+        "source": "TradeArabia"
+      },
+      {
+        "title": "IATA Reports 7.7% Year-on-Year Increase in Global Air Cargo Demand for September",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUFLVHcxak9mMlFXUV9MNjhPNGdjVkpXOVlUc2hFTXB2c3p6eWtvcHdXMXB4azhLaVZsX1NOQXd4bkpyOVNfVDhWOThXY1JWQ1l5ME9TUkluZURwdmt1U3pkMkJWekI2TjlKRFhrYXM5ZjVVT3NKaWZmUFFJRHpDb3dVUjViZjl4cEUtb3pqaDk4ak50MHEwYmZkaw?oc=5",
+        "source": "IndexBox"
+      },
+      {
+        "title": "EU Implements New Levy on Parcels Impacting Cross-Border E-Commerce",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnFicUpaVEkxeUkxS2gtVWFaTnRLRWN1TXlhRl9ETkdmQXhQbkdqcGhncjZFWFpLMFRZZ01xWUZmdjlZSU1rYnBDQlRKajNTYUtrSVV0UHlkWlNuN0dFeG5kb2wtVldPSWI4aDVGZEloSloyWUlYXzRHaWNaNW5DWkRR?oc=5",
+        "source": "BusinessToday Malaysia"
+      }
+    ],
+    "bytes": 715776,
+    "duration_seconds": 44.736
+  },
+  {
     "date": "2026-10-31",
     "title": "Air Cargo News - 31 October 2026",
     "filename": "mac-fm-2026-10-31.mp3",
