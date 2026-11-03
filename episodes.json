@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-03",
+    "title": "Air Cargo News - 03 November 2026",
+    "filename": "mac-fm-2026-11-03.mp3",
+    "published_at": "2026-11-03T13:44:15.270059+01:00",
+    "description": "Today's air cargo news: Transpacific Airfreight Rates Surge in October; IATA Reports Accelerating Air Cargo Demand in September; EU €2 Handling Fee on Non-EU E-Commerce Enters Force. Global air cargo demand and transpacific rates are strengthening into the peak season, even as regulatory shifts target cross-border e-commerce flows. Copilot: Copilot Notebooks Renamed to Copilot Workspaces.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light rain in Geneva today, seven to ten degrees. So, what's on the air-cargo radar? Transpacific airfreight rates surged in October, signaling tightening peak-season capacity and better yields. And IATA noted global cargo demand accelerated in September while passenger demand dipped slightly. Plus, the EU's two-euro handling fee on non-EU e-commerce is now in force, which could alter inbound trade flows. Moving to our tech note, Microsoft renamed Copilot Notebooks to Copilot Workspaces, giving us an updated name for organizing notes and collaboration.",
+    "sources": [
+      {
+        "title": "Transpacific Airfreight Rates Surge in October",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaE1CZ0RGbWhBU3VGY1p3c29qQlpQRUVQeG1HZlpTRzlqVTFodDU3U3JXUHVtMklXWDlESFJaLW15dTRWV09yRHZobWVsTFBTbHFiemZjV1Ixbm4wck9zenVDNnF5ZDBzNzlqOG5BZDBDdWk4dHJvS0t5MDVqTzhoUk1nOGhYakdQYVpKMm5xSnBtMUtaMGpEZHp5V1pHS2s3RC1V?oc=5",
+        "source": "Air Cargo News"
+      },
+      {
+        "title": "IATA Reports Accelerating Air Cargo Demand in September",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQVZpU2FyZTlDM2R5bl9HZ2NSMkpZZlQybEZYVzRrOGprMmN3QjZJem5pSy1uXzJYdUNVd2NSUm1iVlVjeE9XcDN2RHdkYkRsb0hzY3BqS1J2UE1MeFR3U1ZSUkRyQWIxQnp1WFNwampxRHBvVzVPX1ZPbFRNb2l3eXdhTDNGN3JYZWJMT0FPblhsQWhqRXNfMWhoeHhRX2hmdWg0?oc=5",
+        "source": "Asian Aviation"
+      },
+      {
+        "title": "EU €2 Handling Fee on Non-EU E-Commerce Enters Force",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTDZScldlMHhwVW5sdVVxWkFSUzNwSjB0SVZHSUo5V25ZYmQxZlF2QTludnMyV083a196RG8tempGVk5WSmllTi00VzFLUlkyNG5SQ2RlWFRGNzI5ZHhUdlRBX1JXdXFlZUVFNGFEeHhTdEZkWENUZDdxdXFMcTBrdGpCclU3N2pVNWp6NlcydzQ5VFJsQ1pfdXd1UHFQQlJ0SDhR?oc=5",
+        "source": "EUalive"
+      }
+    ],
+    "bytes": 598656,
+    "duration_seconds": 37.416
+  },
+  {
     "date": "2026-11-01",
     "title": "Air Cargo News - 01 November 2026",
     "filename": "mac-fm-2026-11-01.mp3",
