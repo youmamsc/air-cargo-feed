@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-04",
+    "title": "Air Cargo News - 04 November 2026",
+    "filename": "mac-fm-2026-11-04.mp3",
+    "published_at": "2026-11-04T06:08:35.874802+01:00",
+    "description": "Today's air cargo news: Emirates SkyCargo launches dedicated service for AI infrastructure transport; Air cargo spot rates climb 38% amid peak season capacity tightening; Central China Longhao Airlines starts twice-weekly UK freighter flights. Peak season capacity constraints and specialized tech demand are driving spot rate growth and new network routes. Copilot: What's New in Microsoft Copilot for October 2026.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Cloudy in Geneva today, 7 to 10 degrees. So, what's on the air-cargo radar? Emirates SkyCargo just launched AI Tech, a dedicated service for sensitive AI infrastructure transport after strong July volumes. That rising demand could definitely support higher yields and secure dedicated capacity on major trade lanes. And air cargo spot rates climbed 38% as peak season pressures tightened capacity despite lower overall volumes. Spot rate surges like that should improve carrier revenue and operating margins while altering short-term charter pricing. Plus, Central China Longhao Airlines started twice-weekly Boeing 747 freighter operations connecting Zhengzhou to East Midlands Airport. New direct frequencies increase regional import capacity and alter competitive routing options between China and the UK. Before we wrap, check out Microsoft's October Copilot updates in the community hub documentation to stay informed on workflow features.",
+    "sources": [
+      {
+        "title": "Emirates SkyCargo launches dedicated service for AI infrastructure transport",
+        "url": "https://aircargoweek.com/emirates-skycargo-launches-dedicated-service-to-carry-ai-infrastructure-amid-increasing-demand/",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "Air cargo spot rates climb 38% amid peak season capacity tightening",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0RWZWJQVzRzTWU1cnNjMjB0WmhlMjc1cW9wTUU2RWpIZ2k5VEpZWGZRRFpVeU5fMlZCdW9sTENod2ZCLVM5eE9XcVNFMG9UNTlrdWRPNm4zQW1kMGZ4emFJT1ZvZG0wN09VTmo0QVhUVTlsbHNwTVcyREZUT2hlYm9iQzFfTnNWWnY0dG5YNU5UYUY0VXpTVXdqNlBfUFQtdWhNNkdvczUzUnJ3?oc=5",
+        "source": "Breakbulk.News"
+      },
+      {
+        "title": "Central China Longhao Airlines starts twice-weekly UK freighter flights",
+        "url": "https://aircargoweek.com/central-china-longhao-airlines-begins-operations-at-east-midlands-airport/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 897024,
+    "duration_seconds": 56.064
+  },
+  {
     "date": "2026-11-03",
     "title": "Air Cargo News - 03 November 2026",
     "filename": "mac-fm-2026-11-03.mp3",
