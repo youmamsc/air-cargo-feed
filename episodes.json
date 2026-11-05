@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-05",
+    "title": "Air Cargo News - 05 November 2026",
+    "filename": "mac-fm-2026-11-05.mp3",
+    "published_at": "2026-11-05T09:57:31.360269+01:00",
+    "description": "Today's air cargo news: Lufthansa Cargo reports Q3 base yield growth and surging operating profit; Shein commits €500m to Polish logistics hub amid shifting EU parcel rules; Cathay Cargo shifts Mumbai freighter services to Navi Mumbai Airport. Air cargo operators are adapting to evolving regional infrastructure, tightened trade regulations, and robust post-quarter yield environments. Copilot: Introducing SharePoint tools in Work IQ.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Geneva today: light rain, 6 to 11 degrees, with a 33 percent chance of rain. So, what's on the air-cargo radar? Lufthansa Cargo boosted base yields 14% year-on-year in Q3, and EBIT more than tripled to €162m. That's pricing power holding up despite fuel costs. What's the second story? Shein committing €500m to a new Polish logistics hub as EU parcel fees bite. Regional warehousing shifting trade lanes. And the third? Cathay Cargo moving Mumbai freighter services to Navi Mumbai Airport. Airport shifts changing ground turnaround and network connectivity. Quick Copilot check: SharePoint tools now in Work IQ for better search and info retrieval. Users can integrate SharePoint capabilities into day-to-day workflows. That's it for MAC FM.",
+    "sources": [
+      {
+        "title": "Lufthansa Cargo reports Q3 base yield growth and surging operating profit",
+        "url": "https://theloadstar.com/lufthansa-cargo-rides-airfreight-pricing-power-to-stronger-yields/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Shein commits €500m to Polish logistics hub amid shifting EU parcel rules",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYlpoVTRtWFNZV2JheW90SFRrX01kTjRDcFEyU2tVWW15aTllNk5MeWk2OG0wd3BMVWRxUmswc2NOaW5UdGxUU0xqakRidW55MUhxM1lwUXpEUWltWFREM2FROW1rLXpZM2s5RlFtd0hwVld6SjNyM2h3WWVuZDFSM0lnOFNzZU9UczFzd3dlNmtsZ25ITDlPTHk3Tm5reXpkalhlam9haFZlZW5sdmI0aw?oc=5",
+        "source": "TVP World"
+      },
+      {
+        "title": "Cathay Cargo shifts Mumbai freighter services to Navi Mumbai Airport",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5NmlIamV5T19VMjlNN1FCQ0hTQ1JCUzQ2cWJUTER6aVhLTVJZZHpPWHRhOFpLTGRhZDZfRlN2RjF2UmNBSTFqQ0NQWWZrVVpzTlhnb3BoLTZLandYeWJkOGtTdHo0QnBjX2lNeE1DNmI5ZVo3TER6a3V3?oc=5",
+        "source": "https://safariindia.com/"
+      }
+    ],
+    "bytes": 763776,
+    "duration_seconds": 47.736
+  },
+  {
     "date": "2026-11-04",
     "title": "Air Cargo News - 04 November 2026",
     "filename": "mac-fm-2026-11-04.mp3",
