@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-11-06",
+    "title": "Air Cargo News - 06 November 2026",
+    "filename": "mac-fm-2026-11-06.mp3",
+    "published_at": "2026-11-06T06:08:59.664495+01:00",
+    "description": "Today's air cargo news: Taiwan Hub Congested by AI Logistics Rush; Emirates SkyCargo Revenue Surges 52% on Conflict Disruption. High-tech shipment surges and maritime disruptions are tightening operational handling at major hubs while bolstering carrier cargo revenues. Copilot: Lock Copilot Chat to Study and Learn Agent tutoring mode.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Geneva today: light showers, 7 to 11 degrees, with a 73 percent chance of rain. So, what's on the air-cargo radar? Heavy AI equipment imports at Taiwan Taoyuan Airport are causing warehouse clogs and uncollected loads. That dolly shortage triggered select freighter cancellations, which could restrict transpacific export capacity. Meanwhile, Emirates SkyCargo saw revenue jump 52 percent over six months. Regional Middle East disruptions are squeezing capacity and shifting freight from ocean to air. Quick tech tip! Admins can now restrict Copilot Chat exclusively to the Study and Learn Agent's tutoring mode. That keeps users focused on guided learning while avoiding general web search results during training. Perfect for streamlined learning. Have a great day, team!",
+    "sources": [
+      {
+        "title": "Taiwan Hub Congested by AI Logistics Rush",
+        "url": "https://theloadstar.com/reminds-me-of-covid-ai-equipment-chokes-taiwans-air-cargo-gateway/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Emirates SkyCargo Revenue Surges 52% on Conflict Disruption",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPemg0ektJX01zaEUzTy1qTXNRMkdEZHRIZzF5MUhUVWljX2pTMW5oRDRrSDFjMm5IeUVaS05zRXdELVFIZG9LVEJ6VllMUHhfTGNIOTNKU3ZLd185OHlyWWV4dE44cmJYZ2pSLU5mM2lOREhVck1aa2FNUjloejlEeXNoOFp5NlJ6Q0FycDR6ZDZMZzQzTTFyb0FvdHU1YVdNSHcyWlAzZmZwQQ?oc=5",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 774144,
+    "duration_seconds": 48.384
+  },
+  {
     "date": "2026-11-05",
     "title": "Air Cargo News - 05 November 2026",
     "filename": "mac-fm-2026-11-05.mp3",
