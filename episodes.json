@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-07",
+    "title": "Air Cargo News - 07 November 2026",
+    "filename": "mac-fm-2026-11-07.mp3",
+    "published_at": "2026-11-07T06:13:07.710273+01:00",
+    "description": "Today's air cargo news: Global air cargo demand rose 6% in October against flat capacity, widening freighter-access divide; Lufthansa Cargo, SWISS, ANA and NCA sign MoU to expand Japan-Europe cargo cooperation; EU plans €3 fee on Shein and Temu parcels from July 2026. Capacity constraints, trade-lane consolidation, and e-commerce regulation are the main forces shaping near-term air cargo market conditions. Copilot: SharePoint Agents change customer preparation requirements.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. A foggy Geneva today, reaching 12 degrees. What's on the radar? Global demand rose six percent in October while capacity stayed flat, widening fortunes between freighter operators and belly carriers. Tight space could certainly support higher rates. Meanwhile, Lufthansa Cargo, SWISS, ANA, and NCA signed an MoU. They want to expand Japan-Europe cargo cooperation, which might shift capacity routing between Europe and Asia. Speaking of Europe, the EU plans a three-euro fee on Shein and Temu parcels from July 2026. That extra cost on low-value parcels could curb e-commerce air imports into the continent. Quick Copilot tip: SharePoint Agents now surface what customers need for prep directly in Copilot Chat, helping you organize key info faster. Have a great day, everyone!",
+    "sources": [
+      {
+        "title": "Global air cargo demand rose 6% in October against flat capacity, widening freighter-access divide",
+        "url": "https://theloadstar.com/freighter-capacity-divides-air-cargo-fortunes-as-rates-climb/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Lufthansa Cargo, SWISS, ANA and NCA sign MoU to expand Japan-Europe cargo cooperation",
+        "url": "https://www.aircargonews.net/editorial/2026/11/lufthansa-and-ana-restart-japan-europe-cargo-tie-up-with-nca-and-swiss/",
+        "source": "Air Cargo News"
+      },
+      {
+        "title": "EU plans €3 fee on Shein and Temu parcels from July 2026",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkY5anUyVm5TYUhPS2pLXzhKeTlOTUlMZ0V5RjUzWWJQRmpzWmZNaFhjb2drTGRPcEtPbnZMQ2JMbnpWa0xSOExtTnRnTllFVV9EWV9NMjN0U3o5Zk9yVlVSNDZfM0ZtMVZFWWRqTmQzOHNCek1CX0dPalFESnoxNmJNWlpSUFl1OG5NWk1tYTFsQdIBlwFBVV95cUxPMTZIdzNfRjk4M1hPTXZFcmpxcVVPQXd3aGFhV0ZSVjJrWlBwZW1BNmdMX3RqRDBNMXdERDhYeFVneTJJaEpaWm9LZEZheC1oOUkzcjJUV09QVE0tQlBXaEZLVmwwVEEySkV6LWhCSjJsakhwN1FfbVpxX1lsaE1Ed2txbS1WMjlnY3NxMkJSc3ROTk82Rl84?oc=5",
+        "source": "tovima.com"
+      }
+    ],
+    "bytes": 841728,
+    "duration_seconds": 52.608
+  },
+  {
     "date": "2026-11-06",
     "title": "Air Cargo News - 06 November 2026",
     "filename": "mac-fm-2026-11-06.mp3",
