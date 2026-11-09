@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-09",
+    "title": "Air Cargo News - 09 November 2026",
+    "filename": "mac-fm-2026-11-09.mp3",
+    "published_at": "2026-11-09T06:10:11.064052+01:00",
+    "description": "Today's air cargo news: Boeing 777 Freighter Conversions Face Shrinking Used Jet Supply; WTO E-Commerce Agreement Introduces New Rules for Digital Trade; Egypt Customs Upgrades IT System with Korea to Support E-Commerce. Recent regulatory and capacity developments impacting air cargo economics and operations. Copilot: Microsoft Dev Blogs shares Work IQ SharePoint Tools update.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Happy birthday to Jay! Geneva today: light rain, 8 to 13 degrees, with a 40 percent chance of rain. So, what's on the air-cargo radar? Boeing 777 freighter conversions are a stopgap built on a shrinking supply of used jets. That could constrain widebody freighter capacity and push costs up for carriers like MSC Air Cargo. The WTO E-Commerce Agreement establishes new international rules for digital trade. That might reshape cross-border e-commerce flows and affect compliance costs. Egypt's Customs Authority signed a memorandum with Korea to upgrade its IT system for e-commerce. That should streamline customs clearance and reduce dwell times for air cargo. On Copilot, Microsoft Dev Blogs published an article covering Work IQ tools for SharePoint. It can help knowledge workers manage and interact with content in their digital workspace.",
+    "sources": [
+      {
+        "title": "Boeing 777 Freighter Conversions Face Shrinking Used Jet Supply",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wamJpZ3IwaTYyeTlSekl6SHhsSUlGcFJaVFpNaTV6b2xiUWlMa0pteGx0VHo3WEd6TjNFNkN5a0V0NHJDT05kRGJLaWp3VlVoMXptYVU5WmREeG1sa3ZQVV81R3I1bGhoTl9zbnNWdFotZjNf?oc=5",
+        "source": "Simple Flying"
+      },
+      {
+        "title": "WTO E-Commerce Agreement Introduces New Rules for Digital Trade",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0OVh6c3BXR00zVkdISjRMa0ItTEwtOEgweHZrTjdwVWJKbWpHb201UVRTYkQ2alZUSXNOY0NLc0llQnVnenY5OUtzWmw5R1FfOExBeDFtUWpVNFd4NUQxUjFJalVlOUx5UFNISG53?oc=5",
+        "source": "Diplomacy and Law"
+      },
+      {
+        "title": "Egypt Customs Upgrades IT System with Korea to Support E-Commerce",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWEFkR0JTZkFMV3FFUVlyOFc2MDNVVTEzR2FWUHQ0ekJ2eGdjMGxtZU9fN0czeHViazJEYnhYcWFzRl9xZlZqU3V4SFBQR1Q1LWZkRmtQamRJeTZfS0hDR09EbS01RFh0RTVOcjdCbjNKbFd3T2RjUGFLR2RyQVg0UmdYUnFoU0MzblpGYjg2dndMRlVDSE1GTUtEZnhBZWZ6M2FDTF9IV1ZWZkV0Z0pSZGRVSFFQTkw1M2VqbGJWcVk5bTYweDUwMmZ4Y09mRk9rZzN4U1doOHBJTVVBcHRheFhnN25UZFYxNjZJaHBEVFZOaEk?oc=5",
+        "source": "mof.gov.eg"
+      }
+    ],
+    "bytes": 883584,
+    "duration_seconds": 55.224
+  },
+  {
     "date": "2026-11-08",
     "title": "Air Cargo News - 08 November 2026",
     "filename": "mac-fm-2026-11-08.mp3",
