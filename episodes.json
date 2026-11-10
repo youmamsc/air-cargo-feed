@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-10",
+    "title": "Air Cargo News - 10 November 2026",
+    "filename": "mac-fm-2026-11-10.mp3",
+    "published_at": "2026-11-10T06:11:09.119702+01:00",
+    "description": "Today's air cargo news: FedEx adds four weekly China-US freighter flights amid AI hardware demand; Global air cargo tonnages rose 6% in October despite China-Europe volume drops; DHL Express signs first major SAF supply agreement at Paris CDG airport. Shifting trade-lane volumes and targeted capacity expansions are driving adjustments in carrier networks and cost structures. Copilot: Copilot gains connector write capabilities to turn insights into action.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light showers in Geneva today, 8 to 15 degrees. So, what's on the air-cargo radar? FedEx added four weekly China-US freighter flights driven by sustained demand for AI hardware. That capacity expansion on the transpacific lane could shift competitive dynamics for tech-heavy cargo. Meanwhile, WorldACD shows global air cargo tonnages grew six percent in October despite China-Europe volume drops. Diverging regional trade lanes might force carriers to adjust pricing strategies dynamically. On sustainability, DHL Express signed a one-year renewable SAF partnership at Paris CDG. That large-scale SAF adoption at a major European hub could impact operating cost structures. In tech updates, Copilot now has connector write capabilities, allowing users to update external systems directly in chat. That keeps workflows moving in tools like Teams without leaving the interface. That is our wrap for today.",
+    "sources": [
+      {
+        "title": "FedEx adds four weekly China-US freighter flights amid AI hardware demand",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTm5qSWpQUnhGeWd2WHYwdWNSOEo1NjZoRTZJVTFOdmZyOW5Lb0tpdGQwNk9NZENTNkRUakQ0ZWlBWVJWLWk4dlpaX3hKUkNMZFVvaHJXNnVrc0ROcTF2UmU2dEZ1WVNFSENiM3NJODE2TU9wWE1UZEVCcjJVUGsybHJWamxMLWUzRkNDUkZnUEdiVWNmS3VxN19hT1JzMGtRMmlpMkZmcXAwejVwaHhXa2ZUUDl0YzJNbHdUbFZubw?oc=5",
+        "source": "investingLive"
+      },
+      {
+        "title": "Global air cargo tonnages rose 6% in October despite China-Europe volume drops",
+        "url": "https://aircargoweek.com/drop-in-china-europe-volumes-but-global-tonnages-up-6-percent-in-october/",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "DHL Express signs first major SAF supply agreement at Paris CDG airport",
+        "url": "https://aircargoweek.com/first-saf-supply-agreement-for-an-express-cargo-carrier-at-paris-cdg/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 937344,
+    "duration_seconds": 58.584
+  },
+  {
     "date": "2026-11-09",
     "title": "Air Cargo News - 09 November 2026",
     "filename": "mac-fm-2026-11-09.mp3",
