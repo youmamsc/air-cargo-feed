@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-11",
+    "title": "Air Cargo News - 11 November 2026",
+    "filename": "mac-fm-2026-11-11.mp3",
+    "published_at": "2026-11-11T06:40:36.940741+01:00",
+    "description": "Today's air cargo news: Baltic Air Freight Index Climbs 6.6% as Peak Season Tightens; Shenzhen Restricts Belly Cargo and Freighter Slots Ahead of APEC Summit; Thailand Approves Tax Hike on Cross-Border E-Commerce Imports. Airfreight pricing faces upward pressure from peak-season demand and hub disruptions, even as regulatory hurdles emerge for cross-border trade flows. Copilot: Purchase and manage agents in Copilot Chat.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light rain in Geneva today, reaching 16 degrees. What's on the radar? Rates are climbing! The Baltic Air Freight Index jumped 6.6 percent last week as peak season intensifies. Giving carriers firmer spot pricing power. Meanwhile, Shenzhen is suspending international passenger belly cargo and cutting freighter slots next week for APEC. That temporary squeeze at China's third-largest hub could divert export flows and drive regional rate spikes. Over in Southeast Asia, Thailand approved a tax hike on imported e-commerce goods, which might dampen low-weight airfreight demand. And finally, Copilot Chat now lets you purchase and manage agents directly. You can configure them right inside chat to automate tasks across Excel, Teams, and Outlook, streamlining daily workflows.",
+    "sources": [
+      {
+        "title": "Baltic Air Freight Index Climbs 6.6% as Peak Season Tightens",
+        "url": "https://aircargoweek.com/renewed-hardening-in-rates-as-market-heads-into-busiest-weeks-of-traditional-peak-season/",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "Shenzhen Restricts Belly Cargo and Freighter Slots Ahead of APEC Summit",
+        "url": "https://theloadstar.com/shenzhen-air-cargo-restrictions-ahead-of-apec-threaten-peak-shipments/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Thailand Approves Tax Hike on Cross-Border E-Commerce Imports",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnFQNHE4RFc5ZU1JN2luS1lkYU9XSlBSQkxzcHVuOEhqaHE5S05HM2JZdVRRek1ISHFUNGJlbzV5SjBkSTZRN0tTYnpwWUZac0FSMFNDTGxFWXg3YnBrLXRpTjE1bWIxZHJ0cTVmWnUzd1VJcnRJY3dZZG9fSG5SR2gwQ25way1zbWVESE90V0gxX25vajdMY3VaaWZIN05mS1lSYS04dHpuNl93WTUwbDlDWXQydmI1RjJGQzN5UWdHMXBVaEpiNXpjWng?oc=5",
+        "source": "Reuters"
+      }
+    ],
+    "bytes": 708864,
+    "duration_seconds": 44.304
+  },
+  {
     "date": "2026-11-10",
     "title": "Air Cargo News - 10 November 2026",
     "filename": "mac-fm-2026-11-10.mp3",
