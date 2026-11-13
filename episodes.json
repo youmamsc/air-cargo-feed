@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-13",
+    "title": "Air Cargo News - 13 November 2026",
+    "filename": "mac-fm-2026-11-13.mp3",
+    "published_at": "2026-11-13T06:10:20.268852+01:00",
+    "description": "Today's air cargo news: Air cargo rates show signs of cooling as market eyes 2027; Boeing 777F backlog at 36 after two October deliveries; Emirates SkyCargo to launch weekly Milan–New York freighter service. Cooling air cargo rates and constrained freighter capacity are shaping a market where yield discipline and capacity positioning matter more than volume growth. Copilot: Copilot harness enables agents to complete complex tasks across Microsoft 365.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Happy birthday to Franny! Light rain in Geneva today, six to twelve degrees. So, what's on the air-cargo radar? Air cargo rates are showing signs of cooling as the market looks ahead to 2027, which could pressure yields. Right, cost discipline will definitely matter more for freighter operators. Meanwhile, the Boeing 777F backlog stands at 36 after two October deliveries. That constrained orderbook might limit near-term widebody capacity growth. Plus, Emirates SkyCargo is launching a weekly Milan to New York freighter service starting December fifth. That adds transatlantic capacity on Italy-US lanes. Switching gears to tech, the Microsoft Copilot harness now lets agents coordinate multi-step workflows across Microsoft 365 apps. It helps knowledge workers delegate complex tasks like data analysis and report generation without manual context-switching. That is a solid efficiency boost. Time to get to work, MAC Fellas.",
+    "sources": [
+      {
+        "title": "Air cargo rates show signs of cooling as market eyes 2027",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDRJVlhZVWx5Vkl2Ui10ZVB3MW10bDZZTDk4a0ZNbVN3UVJzLWlZTVUtYnFpR2w3NkRYZHh4eml0a1hwb2Z5QmU3Y1hMbWFoT0luWVVqY3FTMFQ4eDM1b1FXOEd0M04tY1RMMjMtVXh1V2trTzZBTE1FUVMtNlpMZkNaQWR3VzBZSW9LRzlR?oc=5",
+        "source": "Cargo Facts"
+      },
+      {
+        "title": "Boeing 777F backlog at 36 after two October deliveries",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjJ2Sk1oTVZNc1ZwMVp3Ty1HbGh5Ujc2UlBrMFQtYk96U1Rhc3lJTmI4MUpINUozVWRTaHNKMWhKRmJpd1lpQ3piVk45VkpXWnV4QW1qZlc5SDYzUFZwWTJoaUM3bDlqQkUtOEN2LVp0anQwU29jSEY3Nm1YYUtBSk9iN3MzTG5vTkdXMVp5UEhHNC1xRWY2MGg3SnJrUdIBowFBVV95cUxQU25zdHJjQmdsYkJzR2R5blRabUNlY0w4M1pHZmFmbUZKaFdRbGNrZTNtbWNUR09SWU92QlBSclhYOXNlZHlGNEM4QUlQVDJJY0dmTlNkT1VJVzFHdlVrRGluenF3elc0QzJiNlMyOWtXeVVQVUZxLWdIemlmdTRmM2x1ZmI3Y0ZtdE9GSVFkckp0OERkV0poY1VrZjlDREVtcUlZ?oc=5",
+        "source": "STAT Times"
+      },
+      {
+        "title": "Emirates SkyCargo to launch weekly Milan–New York freighter service",
+        "url": "https://aircargoweek.com/new-freighter-service-between-milan-and-new-york-from-emirates-skycargo/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 953516,
+    "duration_seconds": 59.568
+  },
+  {
     "date": "2026-11-12",
     "title": "Air Cargo News - 12 November 2026",
     "filename": "mac-fm-2026-11-12.mp3",
