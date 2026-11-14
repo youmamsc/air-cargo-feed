@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-14",
+    "title": "Air Cargo News - 14 November 2026",
+    "filename": "mac-fm-2026-11-14.mp3",
+    "published_at": "2026-11-14T06:11:10.371349+01:00",
+    "description": "Today's air cargo news: Thailand approves e-commerce import duties up to 30%; African air cargo spot rates jump 60%; Perishables airfreight squeeze raises cost pressure. Today's signal is tightening air-cargo economics: policy-driven cost increases in Thailand, a sharp Africa spot-rate jump and perishables cost pressure all point to rising landed cost and yield tension. Copilot: Microsoft Learn describes creating files with Word, Excel, and PowerPoint Agents in Microsoft Copilot.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Geneva today: light rain, 4 to 8 degrees, with a 40 percent chance of rain. So, what's on the air-cargo radar? Thailand approved e-commerce import duties up to 30%, with 6.3 billion baht in extra revenue expected. That ceiling could lift landed costs and nudge volumes toward alternative gateways. Meanwhile, African air cargo spot rates jumped 60%, pointing to tight capacity. Good for yields, but will volumes hold? And perishables face a squeeze: pay more or risk spoilage, or an awful lot of cherry juice. Ouch. Finally, Copilot: Microsoft Learn explains creating files with Word, Excel, and PowerPoint Agents, so you can start documents, spreadsheets, and presentations without a blank file.",
+    "sources": [
+      {
+        "title": "Thailand approves e-commerce import duties up to 30%",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtazM1OWxaeGVQZ3UzUk9pbTBiTUhtdk5hVDVQdVNDODlsNWVVVzZpQkhfakxXNUtPZFlnSUtQeWtLOXJabl82UldZcjhOb0FqWm1oRVN3THd0T2NaRG4zR29WZldBcjZwR2ppZUxSN1N6WDAzb0E?oc=5",
+        "source": "BigGo Finance"
+      },
+      {
+        "title": "African air cargo spot rates jump 60%",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1dUxMVGdmSHVGaGtqZzFpczBvXzIzOFdKdmRQd1Q0aDB3T19XbUtQbVBXTE5rY0lmazZlM2lwRXc3YTV6RWpxajhGMUphRFM3OU04bVQyNEdrcGhSLXJjSWNhR3B0V1hYS3I5UmRteEw2ei1GZ2JGR2RB?oc=5",
+        "source": "Freight News"
+      },
+      {
+        "title": "Perishables airfreight squeeze raises cost pressure",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1dKcGd6UmJIZHdWVlRrTXI1VWd5SnZ1ZUQ0WmJFSkoyVjB1UWxUQ1JpRWlVX0lZVEdEdkZOR3dpMk5NWV9aV29uS3lfNGdGWlBadnJ6M3ZJLUI5LUNpRzJXSDNSNHdSaFVzc0thVWo0endjcHdSRWJTcGJkZElfcE91b0dLMWZIb1VoaUx0S0VvSnRrMUJSOGZobUZKcEFUcHktSTZGRmo?oc=5",
+        "source": "The Loadstar"
+      }
+    ],
+    "bytes": 748416,
+    "duration_seconds": 46.776
+  },
+  {
     "date": "2026-11-13",
     "title": "Air Cargo News - 13 November 2026",
     "filename": "mac-fm-2026-11-13.mp3",
