@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-15",
+    "title": "Air Cargo News - 15 November 2026",
+    "filename": "mac-fm-2026-11-15.mp3",
+    "published_at": "2026-11-15T06:08:25.044628+01:00",
+    "description": "Today's air cargo news: New Freighters Are Late and Old Ones Are Tiring: What the Gap Costs; WTO e-commerce moratorium collapses after 28 years of validity; More Ships Change Course in the Red Sea After Houthi Threats, Shipping Data Shows. Structural capacity constraints and trade policy shifts are creating new pressures on air cargo demand and network planning. Copilot: ORTEC uses Microsoft 365 Copilot for faster logistics decisions.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light showers in Geneva today, 6 to 15 degrees, rain certain. So, what's on the air-cargo radar? Freighter deliveries are delayed while older aircraft keep aging, widening the capacity gap. That squeeze can lift operational costs, limit network capacity, and pressure freight rates. Also, the WTO e-commerce moratorium has collapsed after 28 years of validity. Could that invite new customs duties and compliance costs, reshaping e-commerce air flows? Plus, shipping data shows more vessels rerouting around the Red Sea after Houthi threats. Persistent disruption may push modal shift to air, lifting demand and rates on affected lanes. Copilot note: ORTEC showed Microsoft 365 Copilot turning logistics expertise into faster, trusted decisions. Handy: summarize supply chain data and draft operational updates without switching tools.",
+    "sources": [
+      {
+        "title": "New Freighters Are Late and Old Ones Are Tiring: What the Gap Costs",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JNkpFUDRsQ0NXdWNMUHdFc3RsSXhoQ1JzMlNleFRXNzlOYlNNSXVGSWJXQjRKMUNPRHhWSFB2Zm5ubVNvdVpJR0xsb1lXbVRLQWFob2tEbEpieUVLTDlJOXRheVBoenJmYWFrUk9DNzZKaDZLdGNPNXBUNlhrUQ?oc=5",
+        "source": "The Aviation Hub"
+      },
+      {
+        "title": "WTO e-commerce moratorium collapses after 28 years of validity",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByNXhadWVJQUJxNUljcXRPSklYNXdIQ3htVUV6LU9rMUFyd2hRTzV2ZWliWnhZT2kxU1FlM0RWSnQwSTFzLTRRVFlxYkRVa1pXY3VaZTVzcDFEdU1xaGk4YWRrei03UXVVenNhMGc0Mi0?oc=5",
+        "source": "The Herald Insight"
+      },
+      {
+        "title": "More Ships Change Course in the Red Sea After Houthi Threats, Shipping Data Shows",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNm4xcEVDa201dEJsd2R6VFdHRWhIVU9TOWlIZFVWQWtZaHJmdmIzRTgzTFhSV0RuM0RHdXE0ekpQYk96dlMtUnZvdWVqdFRVODBWajAtcE4tV2pBQVUxUHdjWm50dE1Hb0FibWF2aTNsVEdOR3VTUm03Q3o2NDRGc295d1l6eUNpLVFhMHl5SHBHNjdMT1hNbzNINXdmOW84ZnA3Wm5UdmdfUEg0MlVTUQ?oc=5",
+        "source": "EnergyNow.com"
+      }
+    ],
+    "bytes": 902016,
+    "duration_seconds": 56.376
+  },
+  {
     "date": "2026-11-14",
     "title": "Air Cargo News - 14 November 2026",
     "filename": "mac-fm-2026-11-14.mp3",
