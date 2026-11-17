@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-17",
+    "title": "Air Cargo News - 17 November 2026",
+    "filename": "mac-fm-2026-11-17.mp3",
+    "published_at": "2026-11-17T06:12:22.207344+01:00",
+    "description": "Today's air cargo news: Global Air Freight Rates Surge 31% YoY as Capacity Tightens; DHL Introduces Dedicated China-India-Europe Freighter Service; US Aviation Disruptions Trigger Widespread Cargo Network Delays. Tightening global capacity and operational disruptions are driving up air freight yields while pushing integrators to deploy dedicated freighter tonnage on key Asia trade routes. Copilot: Copilot builds live SharePoint list views from a plain-English prompt.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. So, what's on the air-cargo radar? WorldACD reports global air freight rates surged thirty-one percent year on year as capacity tightened. Sustained rate increases and restricted space could bolster freighter yields while raising spot-market costs. Meanwhile, DHL launched a dedicated freighter service connecting China, India, and Europe. That direct main-deck capacity could increase competitive pressure and offer reliable regional routing. And in the US, aviation disruptions triggered thousands of flight cancellations and network delays. The loss of belly capacity might constrain short-term supply and drive demand toward dedicated freighters. Before we wrap, Copilot can now build live SharePoint list views from plain-English prompts. Knowledge workers can describe views instead of configuring them manually. That is all for today.",
+    "sources": [
+      {
+        "title": "Global Air Freight Rates Surge 31% YoY as Capacity Tightens",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1dXMF9SWG80UUtvSTY0OE9NdjF0MDEwQmxhMkpFdFI5a3pNeXF2dzN2Q2ExZk9SLWdENmFwQnUyY2dHd3VXNVBwbWhSN1YxX18tS2Z1Y2hzdE5WRC1QOTRTUXBIdlJNSTg2RnN6Nl9hb3h2M3U2czJCenA3MFVKaF9CU2twQUtrMERpb0NfeDhaelNYeGpqWEdBX2M4UnFKZ1NzWmQ1QQ?oc=5",
+        "source": "Cargo Airports & Airline Services"
+      },
+      {
+        "title": "DHL Introduces Dedicated China-India-Europe Freighter Service",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0g5RUpCRmN5ejhaZ0ExelBIdF9IYkpEbVoxZThJMUZvQjNsckswSTdDRldlZnhhOVZaWENKc2ZZdU5mdGhVUVBZbG5uT092M185aFo3S0dZRThqalA2WkR5WHJSTElhS1VrZzJwNHgzam95bjJhSGxxYi1TX2JGQktvLWM1VXpZMW5JRUpuaWt3b05TZDdIWXJxdWV5T1RZSFBHam1YVFRGUlhCdVdBT0FTR01ldEJTQlZyVE5jZ0MtZjEzbVJ2RlBBRVpaMzFoM2FSNUtLSlZMRHVN?oc=5",
+        "source": "Data Portuaria"
+      },
+      {
+        "title": "US Aviation Disruptions Trigger Widespread Cargo Network Delays",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcF9GT0p0eVVhdGZueWRkVzhWQjNDUFMyWWd0NGRCR0VJV1g3MlpYVUtJbVBZbUdfNkVXT3JHcE15NzhoelFWUExNbmFWaUd4RTA0N2I1UHZuVkxKZG1TaFM0bTBWZjk4bjdlOGZBVWhNUUl2OFZPbGp5Y1RJdHVXU1M4S3diUFRXa0FkQV9odldfMjYyUWR6WGRpT0stRzR2NmFWRHlienlCbS1QTzZYRGtzNmdsY29XNkE?oc=5",
+        "source": "Breakbulk.News"
+      }
+    ],
+    "bytes": 847488,
+    "duration_seconds": 52.968
+  },
+  {
     "date": "2026-11-16",
     "title": "Air Cargo News - 16 November 2026",
     "filename": "mac-fm-2026-11-16.mp3",
