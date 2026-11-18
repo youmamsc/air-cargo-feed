@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-18",
+    "title": "Air Cargo News - 18 November 2026",
+    "filename": "mac-fm-2026-11-18.mp3",
+    "published_at": "2026-11-18T06:09:19.017341+01:00",
+    "description": "Today's air cargo news: Airfreight rates rise 2% to $3.45/kg despite 2% fall in chargeable weight; EAS Group to reactivate two former AirBridgeCargo 747-400Fs in 2027; Teesside Airport secures three weekly cargo flights from China. Capacity constraints are keeping airfreight rates firm even as volumes soften, while new freighter capacity is being added on Russia-linked and China-UK corridors. Copilot: Copilot Chat demo shows SharePoint tools in Work IQ building sites.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Let's get straight onto the air-cargo radar. Rates are up two percent to $3.45 per kilo, even though chargeable weight fell two percent. Peak surge hasn't shown up yet. So capacity is doing the heavy lifting? Could squeeze forwarder margins and push urgent freight premium. Meanwhile, EAS Group has two former AirBridgeCargo 747-400Fs, targeting May and September 2027 returns. Russia-China-India-UAE lanes, pending restoration. More tonnage possible, but 2027 is a long way off. Closer in, Teesside secured three weekly cargo flights from China, a new dedicated UK corridor. That could nudge handling demand and routing choices across northern England. Copilot Chat demo shows SharePoint tools in Work IQ doing sixty-plus operations. Handy for dashboards, folders, lists—less routine setup, more time for cargo puzzles.",
+    "sources": [
+      {
+        "title": "Airfreight rates rise 2% to $3.45/kg despite 2% fall in chargeable weight",
+        "url": "https://aircargoweek.com/why-are-rates-climbing-as-volumes-fall/",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "EAS Group to reactivate two former AirBridgeCargo 747-400Fs in 2027",
+        "url": "https://aircargoweek.com/eas-group-plans-to-return-former-airbridgecargo-freighters-to-service/",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "Teesside Airport secures three weekly cargo flights from China",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWQ4SmcxM243MFFoTzU2Z1ZmbkJJQ0xqZUZnenpJMWJCWVdfU0ZwOW9XZ2FQblFSRXNrN0xmTGlOTUZLc1R0VGR6d3lZbktjQ0VWcVdLb2ZFRTdZWDEtUHE3QUZUYTlFLWtaOWtuWDQwNFFTM3lPOURFcm5QZzU0TGNaTjJwYmpXMzhFclNEVHptVmdjVTZYcDBUMUw1a0YtbDFxRy03NTJNT3FTZmhJ0gGvAUFVX3lxTE9tZDhKZzEzbjcwUWhPNTZnVmZuQklDTGplRmd6ekkxYkJZV19TRnA5b1dnYVBuUVJFc2s3TGZMaU5NRktzVHRUZHp3eVluS2NDRVZxV0tvZkVFN1lYMS1QcTdBRlRhOUUta1o5a25YNDA0UVMzeU85REVyblBnNTRMY1pOMnBialczOEVyU0RUem1WZ2NVNlhwMFQxTDVrRi1sMXFHLTc1Mk1PcVNmaEk?oc=5",
+        "source": "UK Aviation News"
+      }
+    ],
+    "bytes": 887808,
+    "duration_seconds": 55.488
+  },
+  {
     "date": "2026-11-17",
     "title": "Air Cargo News - 17 November 2026",
     "filename": "mac-fm-2026-11-17.mp3",
