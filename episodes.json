@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-19",
+    "title": "Air Cargo News - 19 November 2026",
+    "filename": "mac-fm-2026-11-19.mp3",
+    "published_at": "2026-11-19T06:11:31.023829+01:00",
+    "description": "Today's air cargo news: Transatlantic airfreight rates hit four-year high as Europe-US and China-North America prices jump; EU low-value e-commerce imports fell 63% after new customs duties and handling fees; UPS agrees to acquire Smartways Logistics to expand pharma capabilities in Australia and New Zealand. Rate pressure on major lanes, EU customs-driven volume shifts, and competitor pharma network expansion are reshaping air-cargo demand and capacity dynamics. Copilot: SharePoint List Data Visualisation Just Got a Big Upgrade (D3.js).",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Light showers in Geneva today, 10 to 12 degrees. So, what's on the air-cargo radar? Transatlantic rates hit a four-year high. Europe-US rose 12% and China-North America jumped 16%. Tightening capacity and peak demand are definitely driving that. Does it shift booking behavior? Potentially. Meanwhile, EU low-value e-commerce imports dropped 63% following new customs duties. That'll squeeze inbound air-cargo demand and forwarder yields heading into the holidays. And UPS is expanding its pharma network by acquiring Smartways Logistics in Australia and New Zealand. A clear move on temperature-sensitive cargo in the region. Before we wrap, a quick tech note: D3.js is now in the SharePoint sandbox, letting Copilot generate interactive charts directly from list data. Saves building custom visualisations externally. That's all for today, MAC Fellas.",
+    "sources": [
+      {
+        "title": "Transatlantic airfreight rates hit four-year high as Europe-US and China-North America prices jump",
+        "url": "https://theloadstar.com/transatlantic-airfreight-rates-at-highest-level-for-four-years/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "EU low-value e-commerce imports fell 63% after new customs duties and handling fees",
+        "url": "https://theloadstar.com/black-friday-bundles-test-retail-margins-as-eu-parcel-charges-bite/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "UPS agrees to acquire Smartways Logistics to expand pharma capabilities in Australia and New Zealand",
+        "url": "https://aircargoweek.com/ups-targets-pharma-in-smartways-logistics-acquisition/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 883968,
+    "duration_seconds": 55.248
+  },
+  {
     "date": "2026-11-18",
     "title": "Air Cargo News - 18 November 2026",
     "filename": "mac-fm-2026-11-18.mp3",
