@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-20",
+    "title": "Air Cargo News - 20 November 2026",
+    "filename": "mac-fm-2026-11-20.mp3",
+    "published_at": "2026-11-20T06:09:02.849131+01:00",
+    "description": "Today's air cargo news: San Pedro Bay port strike threat could shift cargo to air; US approval delays persist for Mexico cargo charters; IATA 2027 battery rules add hybrid-battery provisions. Today's signal is tightening capacity and compliance pressure across key trade lanes, from port-strike modal-shift risk to charter approval delays and new battery shipping rules. Copilot: Unified tasks and plans introduced for Copilot and Microsoft 365.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Geneva today: light showers, 9 to 11 degrees, with a 98 percent chance of rain. So, what's on the air-cargo radar? First up, talks at San Pedro Bay have broken down, putting a Saturday strike threat back on the table. That could force a quick shift from ocean to air for West Coast-bound freight if the ports lock up. Meanwhile, Mexican cargo airlines are still facing long waits for US charter approvals, even after passenger restrictions were eased. Tight capacity on Mexico-US lanes then, with limited ad hoc options for shippers. And finally, IATA's new 2027 battery rules add hybrid-battery provisions, which will change acceptance and handling processes. Compliance teams will need to update workflows before January. Now, for the Copilot update: Microsoft has introduced unified tasks and plans for Copilot and Microsoft 365, helping users manage day-to-day tasks and planning directly within those tools.",
+    "sources": [
+      {
+        "title": "San Pedro Bay port strike threat could shift cargo to air",
+        "url": "https://theloadstar.com/last-ditch-bid-to-prevent-threatened-strike-at-san-pedro-bay-ports/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "US approval delays persist for Mexico cargo charters",
+        "url": "https://theloadstar.com/mexico-us-cargo-charters-still-facing-long-wait-for-approval/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "IATA 2027 battery rules add hybrid-battery provisions",
+        "url": "https://aircargoweek.com/new-iata-battery-shipping-regulations-set-to-come-in-for-2027/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 887808,
+    "duration_seconds": 55.488
+  },
+  {
     "date": "2026-11-19",
     "title": "Air Cargo News - 19 November 2026",
     "filename": "mac-fm-2026-11-19.mp3",
