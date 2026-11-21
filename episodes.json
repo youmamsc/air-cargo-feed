@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-21",
+    "title": "Air Cargo News - 21 November 2026",
+    "filename": "mac-fm-2026-11-21.mp3",
+    "published_at": "2026-11-21T06:42:43.334850+01:00",
+    "description": "Today's air cargo news: Strait of Hormuz Maritime Transit Drops 65% Below Pre-War Levels; Airfreight Capacity Growth in 2027 Reflects Restored Supply, Not Net Expansion; Korean Air Expects 20% Belly Capacity Increase Following Asiana Integration. Global air cargo capacity dynamics are being reshaped by structural airline integrations, conflict-recovery realities, and ongoing maritime disruptions driving potential demand shifts. Copilot: Copilot gains people and org context in Work IQ.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Happy birthday to Ming! Light showers in Geneva today around 12 degrees. Straight to air cargo: maritime shipping through the Strait of Hormuz is down 65% below pre-war levels. That ocean disruption could push cargo to air, lifting rates on Asia-Europe and Middle East corridors. Though consultants note that projected 5% to 7% airfreight capacity growth in 2027 just restores lost space from Gulf conflicts, rather than net expansion. Meanwhile, Korean Air expects a 20% belly capacity boost after integrating Asiana on December 17th, strengthening Incheon hub connections. Over to tech: Copilot now understands organizational structures and team relationships in Work IQ. That means you can quickly find internal experts or team workloads in Copilot Chat without searching Teams or SharePoint.",
+    "sources": [
+      {
+        "title": "Strait of Hormuz Maritime Transit Drops 65% Below Pre-War Levels",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aOXdZVG1QeXBFX2ttT1FmZ3FscnV0UDZGZ3ctLXFhSGhfVHJLZ1picjlyaFJsWWNtdFE2TktPU0o3czRZc3lGd2FiYkJLc3I4Q1E?oc=5",
+        "source": "Iran International"
+      },
+      {
+        "title": "Airfreight Capacity Growth in 2027 Reflects Restored Supply, Not Net Expansion",
+        "url": "https://theloadstar.com/expected-airfreight-capacity-boost-flatters-the-picture-not-new-space/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Korean Air Expects 20% Belly Capacity Increase Following Asiana Integration",
+        "url": "https://theloadstar.com/korean-air-eyes-20-more-belly-cargo-capacity-from-asiana-merger/",
+        "source": "The Loadstar"
+      }
+    ],
+    "bytes": 804096,
+    "duration_seconds": 50.256
+  },
+  {
     "date": "2026-11-20",
     "title": "Air Cargo News - 20 November 2026",
     "filename": "mac-fm-2026-11-20.mp3",
