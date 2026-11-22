@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-11-22",
+    "title": "Air Cargo News - 22 November 2026",
+    "filename": "mac-fm-2026-11-22.mp3",
+    "published_at": "2026-11-22T06:09:46.982938+01:00",
+    "description": "Today's air cargo news: Strait of Hormuz Maritime Traffic Remains 65% Below Pre-War Levels; Azul Deploys Fourth A321P2F Freighter into Service with More Planned. Maritime security disruptions in major transit corridors and ongoing regional freighter fleet additions continue to reshape air cargo demand and capacity distribution. Copilot: Copilot in SharePoint builds interactive forms over lists and saves them as reusable skills.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Geneva today: rain, 7 to 11 degrees, with a 100 percent chance of rain. So, what's on the air-cargo radar? Maritime transit through the Strait of Hormuz is still 65% below pre-war levels after six tankers were attacked in a single week. That kind of disruption could push time-critical freight off the water and onto aircraft, tightening regional capacity. Meanwhile, Azul just put its fourth A321P2F into service with two more coming early 2027. Steady narrowbody freighter growth like that will keep pressure on short-haul yields in their markets. Quick Copilot note: SharePoint now builds interactive forms over lists from a prompt, validates rules on entry, and saves them as reusable skills. Handy for replacing repetitive row edits with a guided form you can deploy across multiple lists without rebuilding.",
+    "sources": [
+      {
+        "title": "Strait of Hormuz Maritime Traffic Remains 65% Below Pre-War Levels",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTFFDVTU4SDloWU1OV0hGc2xiX2pKM2ZmRVRKclU2bHg0UXRJUFdBbHpUV1F4RVduT0lGcVFuZG5zZElZc0o5TktrVnh6cTJTNGlIYXFlMEhqOHY0WTFkUE5VazVMZXBiYlI4d25BS21mRW1ZOFA4N2lWV2xfbDNoUkthbw?oc=5",
+        "source": "Marine Insight"
+      },
+      {
+        "title": "Azul Deploys Fourth A321P2F Freighter into Service with More Planned",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNdWMzcUlYRnVYQW5ZZVNOTGlSQU83VkxsYTRzdmxlZFB5OEhfYnJMVWxiemh4MklocWlOV0VqU3RSTnllc0U1cG5JVDd0T1NxQ21nYXVicFVYNEd3bGRCb2o0X1Q0bktmX3ZoS0pNTG1CRnRCNTdMZEdhMEFta0t3RUJWdHdIV1R2Q18yamZzUTZuS25GVG9saXltWmllaFJvb010TUJMeExuY0Rra1E1ZWduUnUxUUZ6VENiZ21fcTdSQmtxNDYyOHJPd05kbWJKZ1ZxYURPZUgzM2dyQ29iZWNOR2t0Vjk1UFNsRkljRVlBMXd1eW5paUI5dnVQaXRZcEtkOS1GbHYtRUFqcnlsMkdhaUFaSUR6QVY3UFdNTzhvV3FrMVlGVi1LZw?oc=5",
+        "source": "Aviacionline"
+      }
+    ],
+    "bytes": 807936,
+    "duration_seconds": 50.496
+  },
+  {
     "date": "2026-11-21",
     "title": "Air Cargo News - 21 November 2026",
     "filename": "mac-fm-2026-11-21.mp3",
