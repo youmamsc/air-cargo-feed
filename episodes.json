@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-23",
+    "title": "Air Cargo News - 23 November 2026",
+    "filename": "mac-fm-2026-11-23.mp3",
+    "published_at": "2026-11-23T06:11:33.233201+01:00",
+    "description": "Today's air cargo news: Air cargo rates rise 2% in Week 46 as capacity tightens; WorldACD: Air cargo volumes dip on Diwali, US outage; rates build; EU to impose €3 fee on Shein, Temu parcels from July 2026. Tightening capacity and rising rates signal a firming pricing environment, while regulatory shifts and operational disruptions introduce volume volatility. Copilot: Copilot Interactive Forms Now Launchable Directly in SharePoint.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Rainy one in Geneva today, 6 to 9 degrees. So, what's on the air-cargo radar? Rates first — air cargo rates rose 2% in Week 46 as physical capacity tightened. Tighter capacity and firmer rates — that points to a stronger yield picture, cautiously. Meanwhile, WorldACD saw volumes dip on Diwali and a US outage, while rates kept climbing. Supply-demand imbalance, then. Temporary constraints can hold yields up even as demand softens. And from July 2026, the EU adds a €3 fee per parcel on low-value Shein and Temu shipments. That could shift cross-border parcel economics — and maybe push some volume elsewhere. Quick Copilot note: interactive forms now launch straight in SharePoint, via a quick step or a home page button. Handy for reviews and approvals without leaving context. That's it — have a good one.",
+    "sources": [
+      {
+        "title": "Air cargo rates rise 2% in Week 46 as capacity tightens",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUFZN0pLUGdTam9JTkJOS2dYb0ZJNEdHamlMT1NteWlfTmZfUDAyZHVkVERLeF9sSE5yNWJBSU5PNHJEVks2aXFDaFdVdVlsQmcwanNBa3paYW9lMnlZSVV3U2FVRkdoZTlXZ0Q4VEprUl94TWp3WGZqN3pCRkhMejY5VmNadlFKdWtFUEZXendCN2hf?oc=5",
+        "source": "IndexBox"
+      },
+      {
+        "title": "WorldACD: Air cargo volumes dip on Diwali, US outage; rates build",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU0pic3VFMUZ2RDZLVEdBV002OHF4eEdHcmdTWWJoalljQXJULWU0X3ZJbllCeGdaMkxUTmxURTRuWnRhUVY3UHNuODU4dFZ0OUplMGtTbnFIOFltemhidms5eEwtVllYVFFRdzQ5V0wxVm9ZeVZNX2J6VTFXaUV4OEpXY01Ub0FybktYSkpzandwR2hheVgtUExRRk9wT1FjbnVYblJnUmluQVAzS21nN2lGZ29sTFg4?oc=5",
+        "source": "Asian Aviation"
+      },
+      {
+        "title": "EU to impose €3 fee on Shein, Temu parcels from July 2026",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkY5anUyVm5TYUhPS2pLXzhKeTlOTUlMZ0V5RjUzWWJQRmpzWmZNaFhjb2drTGRPcEtPbnZMQ2JMbnpWa0xSOExtTnRnTllFVV9EWV9NMjN0U3o5Zk9yVlVSNDZfM0ZtMVZFWWRqTmQzOHNCek1CX0dPalFESnoxNmJNWlpSUFl1OG5NWk1tYTFsQdIBlwFBVV95cUxPMTZIdzNfRjk4M1hPTXZFcmpxcVVPQXd3aGFhV0ZSVjJrWlBwZW1BNmdMX3RqRDBNMXdERDhYeFVneTJJaEpaWm9LZEZheC1oOUkzcjJUV09QVE0tQlBXaEZLVmwwVEEySkV6LWhCSjJsakhwN1FfbVpxX1lsaE1Ed2txbS1WMjlnY3NxMkJSc3ROTk82Rl84?oc=5",
+        "source": "tovima.com"
+      }
+    ],
+    "bytes": 920448,
+    "duration_seconds": 57.528
+  },
+  {
     "date": "2026-11-22",
     "title": "Air Cargo News - 22 November 2026",
     "filename": "mac-fm-2026-11-22.mp3",
