@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-24",
+    "title": "Air Cargo News - 24 November 2026",
+    "filename": "mac-fm-2026-11-24.mp3",
+    "published_at": "2026-11-24T06:09:16.042983+01:00",
+    "description": "Today's air cargo news: Bangladesh garment exporters shift $254m orders to airfreight; Belgian ATC strike disrupts 70 flights at Liège/Brussels; Strait of Hormuz attacks hit wartime high in October. Labour disruption in Bangladesh, ATC capacity loss in Belgium, and maritime insecurity near Hormuz are collectively driving near-term air-cargo volume shifts, rerouting, and rate pressure. Copilot: Build custom SharePoint list interfaces with Copilot HTML views and forms.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Geneva today: light rain, 5 to 8 degrees, with a 48 percent chance of rain. So, what's on the air-cargo radar? Huge volume demand in Asia! Bangladesh garment makers shifted 254 million dollars in orders to airfreight after factory disruptions. That puts real pressure on rates. Meanwhile in Europe, a Belgian air traffic control strike disrupted 70 flights at Liège and Brussels right before Black Friday. Ouch, immediate capacity limits there. Plus, shipping attacks near the Strait of Hormuz hit a wartime high in October, pushing more ocean cargo to air. Busy lanes everywhere. Quick Copilot tip: you can now use Copilot to build custom HTML views and interactive forms for SharePoint lists, speeding up data entry. Great for onboarding checklists! That's all for today, catch you tomorrow. Bye everyone!",
+    "sources": [
+      {
+        "title": "Bangladesh garment exporters shift $254m orders to airfreight",
+        "url": "https://theloadstar.com/bangladesh-garment-makers-turn-to-airfreight-as-buyers-shop-elsewhere/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Belgian ATC strike disrupts 70 flights at Liège/Brussels",
+        "url": "https://theloadstar.com/air-traffic-strike-disrupts-liege-and-brussels-cargo-ahead-of-black-friday/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "Strait of Hormuz attacks hit wartime high in October",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEa2xmc2hhRFJ4TnFRa29zM2VpQnQ5YUJ6VmQ2UklYbnoyT2g2MGRJQ0xDczU0dUN0eThQMnF3aU4xTmszU25Db1o5Tkh4Wmhkb0NROXpR?oc=5",
+        "source": "Anadolu Ajansı"
+      }
+    ],
+    "bytes": 805248,
+    "duration_seconds": 50.328
+  },
+  {
     "date": "2026-11-23",
     "title": "Air Cargo News - 23 November 2026",
     "filename": "mac-fm-2026-11-23.mp3",
