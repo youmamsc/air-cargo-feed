@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-11-25",
+    "title": "Air Cargo News - 25 November 2026",
+    "filename": "mac-fm-2026-11-25.mp3",
+    "published_at": "2026-11-25T06:14:04.576046+01:00",
+    "description": "Today's air cargo news: Freighters Shift to Transpacific Lane as Asia-Europe E-Commerce Demand Slows; Hyderabad Airport Increases Cargo ULD Storage Capacity by Over 140 Percent. Air cargo operators and hub airports are actively reconfiguring capacity and ground infrastructure to adapt to shifting trade lane demand and volume growth. Copilot: SharePoint Site Columns Improve Copilot Search and Filtering.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Happy birthday to Nina and Trinidad! Geneva today: rain, 4 to 7 degrees, with a 100 percent chance of rain. So, what's on the air-cargo radar? Freighters are shifting capacity to Transpacific routes as Asia-Europe e-commerce demand drops. That reallocation might pressure Transpacific yields and tighten Asia-Europe space. Also, Hyderabad Airport upgraded its terminal system. Right, boosting ULD storage from 33 to 80 units! That could cut ground delays in South Asia. Now for our tech tip: standardized SharePoint site columns help Copilot build unified search pages. Exactly. Consistent metadata prevents naming errors, making Copilot filtering and dashboards far more accurate across document libraries. That's a wrap. Have a great day!",
+    "sources": [
+      {
+        "title": "Freighters Shift to Transpacific Lane as Asia-Europe E-Commerce Demand Slows",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEVubW1UajdLWGlsY3VXcGdOQjBRZWh0LWtmX19Nem9kVEVFRUhZZGdKSzJwbEEwdkhnZkZkcDAzY09ZMXJ1eGJxSTBBZlhCV25mVGVjZ1BPYzBNSGJjd0RNQ0dsXzdjVzVTTzIydzdRbHV2di1tdTNmOEc5MFlabUJFZ3RhV3VCa25qdlV5d3hsMWgtenNITkY1bng1TzhiY1lrQkJfNzZUNFFXaGRGQnFGeEctWVk?oc=5",
+        "source": "Air Cargo News"
+      },
+      {
+        "title": "Hyderabad Airport Increases Cargo ULD Storage Capacity by Over 140 Percent",
+        "url": "https://aircargoweek.com/gmr-aero-led-ghial-enhances-cargo-handling-capacity-by-over-140/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 753024,
+    "duration_seconds": 47.064
+  },
+  {
     "date": "2026-11-24",
     "title": "Air Cargo News - 24 November 2026",
     "filename": "mac-fm-2026-11-24.mp3",
