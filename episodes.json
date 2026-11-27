@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-11-27",
+    "title": "Air Cargo News - 27 November 2026",
+    "filename": "mac-fm-2026-11-27.mp3",
+    "published_at": "2026-11-27T06:08:40.899384+01:00",
+    "description": "Today's air cargo news: US tariff uncertainty drives supply-chain shifts in transport modes and sourcing; Nvidia halts AI server shipments to Southeast Asia under new US export controls; FTL Airlines launches Europe-Asia widebody freighter service with A330-300P2F. Trade policy shifts and new capacity entrants are simultaneously reshaping demand patterns and competitive dynamics on major airfreight lanes. Copilot: Video Demonstrates Microsoft 365 Copilot Interface Updates.",
+    "transcript": "Hello MAC Fellas, Stephen here with Leonore. Foggy in Geneva today, reaching seven degrees. Let's hit the air-cargo radar. First up, US tariff uncertainty is prompting businesses to shift transport modes, increase bonded warehousing, and diversify sourcing origins. That could redirect airfreight volumes across trade lanes. Meanwhile, Nvidia told partners to halt AI server shipments to Southeast Asia under new US export controls. A big hit—that removes a high-yield commodity from key Asia-Pacific lanes, threatening yields. In capacity news, FTL Airlines launched an A330-300P2F from Paris to Hanoi. Adding sixty-two tonnes of payload to Europe-Asia, with more freighters planned. Now, a quick Copilot tip. Microsoft 365 Copilot rolled out an updated interface with combined Chat and Cowork options, a Code tab, and Workspaces replacing Notebooks. Handy for tracking multi-session tasks in Projects. Have a great day, MAC!",
+    "sources": [
+      {
+        "title": "US tariff uncertainty drives supply-chain shifts in transport modes and sourcing",
+        "url": "https://aircargoweek.com/us-tariff-uncertainty-rethink-global/",
+        "source": "Air Cargo Week"
+      },
+      {
+        "title": "Nvidia halts AI server shipments to Southeast Asia under new US export controls",
+        "url": "https://theloadstar.com/nvidia-halts-server-shipments-to-asian-markets-as-new-us-export-rules-bite/",
+        "source": "The Loadstar"
+      },
+      {
+        "title": "FTL Airlines launches Europe-Asia widebody freighter service with A330-300P2F",
+        "url": "https://aircargoweek.com/ftl-airlines-begins-widebody-cargo-operations-to-asia/",
+        "source": "Air Cargo Week"
+      }
+    ],
+    "bytes": 952704,
+    "duration_seconds": 59.544
+  },
+  {
     "date": "2026-11-26",
     "title": "Air Cargo News - 26 November 2026",
     "filename": "mac-fm-2026-11-26.mp3",
